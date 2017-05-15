@@ -1,2 +1,3 @@
 stanford/
 .ipynb_checkpoints/
+*.bin*
