@@ -12,10 +12,10 @@ id,answer
 11,However
 12,troops occupied provinces
 13,Omar Pasha
-14,0
+14,This
 15,0
 16,The Russians
-17,0
+17,The Russians
 18,Most
 19,Omar Pasha
 20,The Russians
@@ -27,24 +27,24 @@ id,answer
 26,The Crimean War
 27,Florence Nightingale
 28,documented extensively
-29,0
+29,The Russians
 30,Sultan Mahmud II
-31,0
+31,The
 32,0
 33,1830
-34,0
+34,The Russians
 35,Egypt
 36,0
 37,sultan
 38,0
 39,control
 40,0
-41,0
+41,The Russians
 42,0
 43,1840
 44,0
 45,of the
-46,0
+46,The Russians
 47, Nicholas
 48,The British
 49,"years ,"
@@ -62,7 +62,7 @@ id,answer
 61,appointed
 62,Charlemagne
 63,Charlemagne
-64,0
+64,The
 65,0
 66,0
 67,0
@@ -76,7 +76,7 @@ id,answer
 75,0
 76,0
 77,Mikhail Gorchakov
-78,0
+78,However
 79,0
 80,"80,000"
 81,"advanced , crossing"
@@ -98,15 +98,15 @@ id,answer
 97,Paris
 98,0
 99,Cowley
-100,0
+100,The Russians
 101, Nicholas
 102,0
 103,0
 104,plans
-105,0
+105,Most
 106,Omar Pasha
 107,crossed
-108,crossed
+108,attacked
 109,Chetatea
 110,0
 111,province
@@ -117,25 +117,25 @@ id,answer
 116,by the
 117,troops actually crossed
 118,0
-119,peaceful settlement
+119,entered
 120,on the
-121,0
-122,0
+121,In
+122,The Russians
 123,and on
 124,from the
 125,in the
 126,harbour .
 127,0
-128,on the
+128,Anglo-French
 129,Sevastopol
 130,against their
 131,them of their
 132,four 60-gun
 133,four 60-gun
-134,0
+134,The Russians
 135,degree
 136,George Hamilton-Gordon
-137,0
+137,The Russians
 138,ships sailed
 139,500
 140,allied expeditionary force
@@ -147,21 +147,21 @@ id,answer
 146,that the
 147,25
 148,The Russians
-149,0
+149,Perhaps
 150,Raglan
-151,0
+151,However
 152,0
-153,0
+153,A
 154,0
 155,0
 156,0
-157,","
-158,.
+157,who were
+158,them was
 159,0
-160,.
+160,them was
 161,0
 162,Raglan
-163,0
+163,The Russians
 164,0
 165,0
 166,0
@@ -189,7 +189,7 @@ id,answer
 188,0
 189,undermine
 190,into the
-191,","
+191,On
 192,armed steamers attacked
 193,the most
 194,grounded near
@@ -216,9 +216,9 @@ id,answer
 215,landed
 216,0
 217,proper .
-218,.
+218,defeated
 219,capital .
-220,","
+220,close
 221,The Baltic
 222,1854
 223,another attempt .
@@ -230,7 +230,7 @@ id,answer
 229,0
 230,"industrial explosives ,"
 231,Cronstadt
-232,(
+232,civil engineer
 233,David Price
 234,snow
 235,:339
@@ -242,7 +242,7 @@ id,answer
 241,1853
 242,0
 243,Piraeus
-244,0
+244,The Russians
 245,0
 246,Trafalgar Square
 247,finally put
@@ -253,7 +253,7 @@ id,answer
 252,by the
 253,0
 254,0
-255,0
+255,In August
 256,The Russians
 257,in the
 258,1870–1871
@@ -261,7 +261,7 @@ id,answer
 260,Otto von Bismarck
 261,0
 262,Most
-263,0
+263,:433
 264,:110
 265,of the
 266,to be
@@ -278,7 +278,7 @@ id,answer
 277,William Howard Russell (
 278,0
 279,during the
-280,0
+280,Public
 281,1857
 282,iconic symbol
 283,and other
@@ -293,7 +293,7 @@ id,answer
 292,contains
 293,0
 294,0
-295,","
+295,second century
 296,0
 297,Greek
 298,with the
@@ -313,21 +313,21 @@ id,answer
 312,0
 313,Cycladic
 314,on the
-315,collapsed violently around
-316,Linear B
+315,during a
+316,Minoans
 317,one
 318,They
 319,end
 320,from the
 321,0
-322,Turks
+322,", predominantly"
 323,492
 324,At
 325,by the
 326,by the
 327,was the
 328,states .
-329,0
+329,The
 330,0
 331,Philip
 332,0
@@ -337,7 +337,7 @@ id,answer
 336,168
 337,visited
 338,'s famous statement :
-339,","
+339,Nero
 340,Aeneid
 341,culture
 342,form
@@ -346,8 +346,8 @@ id,answer
 345,by the
 346,The
 347,0
-348,'s
-349,Athens
+348,"century ,"
+349,Following
 350,and most of the
 351,end
 352,There
@@ -357,7 +357,7 @@ id,answer
 356,"century , much"
 357,imperial capital
 358,of the
-359,"century ,"
+359,of the
 360,Ottomans
 361,1460
 362,0
@@ -366,21 +366,21 @@ id,answer
 365,0
 366,by the
 367,by the
-368,conversions
+368,", particularly"
 369,parts
-370,","
+370,faced several types
 371,1571
 372,1684–1699
 373,1571
 374,competed
-375,usually took arms
+375,"states ,"
 376,This
 377,These
 378,Rigas Feraios
 379,18th
-380,(
-381,)
-382,)
+380,Filiki Eteria
+381,Filiki Eteria
+382,Filiki Eteria
 383,Hellenic National Space Committee
 384,to the
 385,1821
@@ -389,7 +389,7 @@ id,answer
 388,0
 389,two
 390,Ibrahim Pasha
-391,Greece
+391,with an
 392,1571
 393,Greece
 394,intervene
@@ -414,12 +414,12 @@ id,answer
 413,") ,"
 414,0
 415,1.5 million
-416,0
+416,Because
 417,0
-418,","
-419,monarchy
+418,abolished via
+419,and the
 420,Georgios Kondylis
-421,0
+421,Although
 422,Following
 423,0
 424,0
@@ -433,7 +433,7 @@ id,answer
 432,Mycenaean Greece
 433,has the
 434,has the
-435,.
+435,top
 436,by the
 437,ft )
 438,by the
@@ -451,27 +451,27 @@ id,answer
 450,– feature
 451,Thrace
 452,Located
-453,","
+453,'s head
 454,six
 455,At
-456,.
+456,dishes
 457,and the
 458,is a
 459,current leader
-460,0
+460,Statutes
 461,universal compulsory military service
 462,The Constitution
 463,0
-464,0
-465,","
+464,From
+465,formally appoints
 466,0
-467,0
+467,Members
 468,Parliamentary
 469,by the
-470,.
+470,to the
 471,of the
 472,0
-473,","
+473,As
 474,second elections
 475,0
 476,0
@@ -486,10 +486,10 @@ id,answer
 485,2011
 486,Greece
 487,also
-488,(
+488,"autonomous area ,"
 489,"economies combined ,"
-490,%
-491,%
+490,national economic output .
+491,national economic output .
 492,18
 493,European Union
 494,"economies combined ,"
@@ -558,13 +558,13 @@ id,answer
 557,by the
 558,1986
 559,1986
-560,0
+560,Of
 561,national population
 562,major entry point
 563,Afghanistan
 564,reinforcements
-565,0
-566,.
+565,The
+566,arrivals applied
 567,Greeks
 568,The Capodistrian University
 569,0
@@ -572,16 +572,16 @@ id,answer
 571,As
 572,As
 573,'' )
-574,(
+574,According
 575,There
 576,Students
 577,to the
-578,.
+578,Athens
 579,universal health care .
 580,countries surveyed .
 581,countries surveyed )
-582,there were
-583,"31,000"
+582,138
+583,July
 584,"ancient times ,"
 585,modern
 586,Greece
@@ -598,9 +598,9 @@ id,answer
 597, Aristotle
 598,from other
 599,monumental works
-600,:
+600,monumental works
 601,Sappho
-602,0
+602,The Classical
 603,The
 604,1950s
 605,Asty Films Company
@@ -625,12 +625,12 @@ id,answer
 624,vocal music extends far back
 625,However
 626,from the
-627,","
+627,type
 628,instrumental accompaniment .
-629,","
+629,music remained monophonic
 630,people also cultivated
 631,between the
-632,.
+632,dirges express
 633,of the
 634,so-called
 635,of the
@@ -654,7 +654,7 @@ id,answer
 653,last recorded
 654,Greece
 655,gold medals
-656,one
+656,world
 657,2004
 658,nine
 659,eighteen
@@ -666,7 +666,7 @@ id,answer
 665,The
 666,one
 667,after their
-668,","
+668,after their
 669,in the
 670,0
 671,two
@@ -676,10 +676,10 @@ id,answer
 675,Mount Olympus
 676,of the
 677,Greek
-678,","
+678,king
 679,0
 680,"law , every"
-681,0
+681,There
 682,eleven
 683,There
 684,As
@@ -705,7 +705,7 @@ id,answer
 704,Lossless
 705,colour
 706,popular algorithms
-707,.
+707,DEFLATE
 708,for the
 709,Current LZ-based
 710,format .
@@ -755,7 +755,7 @@ id,answer
 754,if not all
 755,Oscar Bonello
 756,Oscar Bonello
-757,.
+757,broadcast automation system
 758,The
 759,Uncompressed
 760,Highly
@@ -776,7 +776,7 @@ id,answer
 775,of a
 776,compression algorithms
 777,of the
-778,)
+778,GenomeZip
 779,applied
 780,The Iranian
 781,of the
@@ -793,7 +793,7 @@ id,answer
 792,branch
 793,suggested candidate
 794,2000
-795,","
+795,"family , like"
 796,various
 797,The
 798,0
@@ -802,7 +802,7 @@ id,answer
 801,which has
 802,"languages ,"
 803,in the
-804,)
+804,Achaemenid
 805,subdivided
 806,originated
 807,did for what he
@@ -819,7 +819,7 @@ id,answer
 818,originated
 819,two
 820,languages
-821,Middle Persian
+821,Khwarezmian
 822,ancient speakers
 823,", foreign references"
 824,by the
@@ -828,7 +828,7 @@ id,answer
 827,literary languages
 828,by the
 829,stage (
-830,by a
+830,Pahlavi
 831,under the
 832,875
 833,''
@@ -851,12 +851,12 @@ id,answer
 850,Sudanese Republic
 851,of a
 852,three
-853,(
+853,for which
 854,northern
-855,","
+855,In January
 856,April
 857,military launched
-858,","
+858,with a
 859,of a
 860,"named ) ,"
 861,gradually gained independence
@@ -899,7 +899,7 @@ id,answer
 898,climate classification (
 899,which was
 900,constitution provides
-901,0
+901,The
 902,two
 903,vested
 904,0
@@ -918,12 +918,12 @@ id,answer
 917,sixteen
 918,sixteen
 919,48
-920,)
+920,total fertility rate (
 921,The
 922,world 's highest rates
 923,to be
 924,people
-925,du
+925,( iˈmɑːli ;
 926,"century ,"
 927,darker-skinned
 928,in the
@@ -942,7 +942,7 @@ id,answer
 941,was to
 942,women could make
 943,of the
-944,","
+944,as are a
 945,Malaria
 946,female genital mutilation (
 947,62–65
@@ -950,7 +950,7 @@ id,answer
 949, Mali
 950,Dance
 951,28
-952,","
+952,late roots
 953,artists
 954,by the
 955,2015
@@ -974,7 +974,7 @@ id,answer
 973,'s
 974,which is an
 975,also
-976,%
+976,owned
 977,87 million
 978,87 million
 979,It
@@ -984,7 +984,7 @@ id,answer
 983,advertisements
 984,Limited
 985,open market starting
-986,0
+986,On
 987,in which the
 988,The
 989,150
@@ -1013,7 +1013,7 @@ id,answer
 1012,as a
 1013,also within
 1014,July
-1015,massive
+1015,Good Friday
 1016,On March
 1017,earthquake killed
 1018,earthquake killed
@@ -1022,14 +1022,14 @@ id,answer
 1021,20
 1022,0
 1023,2014
-1024,34
+1024,Religion Data Archives
 1025,residents
 1026,has been
 1027,Washington
 1028,First Russian Orthodox Church
 1029,helped
 1030,Quaker
-1031,(
+1031,"6,000"
 1032,Its
 1033,Its
 1034,80
@@ -1064,8 +1064,8 @@ id,answer
 1063,fund
 1064,one
 1065,also
-1066,0
-1067,0
+1066,The Permanent Fund
+1067,The Permanent Fund
 1068,crops consist predominately
 1069,lies another concentration
 1070,state program spearheaded
@@ -1075,7 +1075,7 @@ id,answer
 1074,1
 1075,city
 1076,western part
-1077,U.S
+1077,road connections compared
 1078,development
 1079,ARR
 1080,in the
@@ -1117,7 +1117,7 @@ id,answer
 1116,for a
 1117,and the
 1118,had the
-1119,and the
+1119,on a
 1120,34
 1121,is a
 1122,All
@@ -1162,7 +1162,7 @@ id,answer
 1161,them to
 1162,with the
 1163,The
-1164,0
+1164,A
 1165,to the
 1166,"preamble comes numbered articles ,"
 1167,Each
@@ -1177,7 +1177,7 @@ id,answer
 1176,The
 1177,The
 1178,multiple copies
-1179,0
+1179,The
 1180,0
 1181,"later reprinted ,"
 1182,0
@@ -1185,9 +1185,9 @@ id,answer
 1184,"later reprinted ,"
 1185,two
 1186,parties ; consider
-1187,(
+1187,EU
 1188,member states severally—it
-1189,(
+1189,EU
 1190,A
 1191,does not
 1192,"international compacts , e.g. ,"
@@ -1195,7 +1195,7 @@ id,answer
 1194,A
 1195,state 's acceptance
 1196,on the
-1197,0
+1197,Originally
 1198,A
 1199,and its
 1200,"join treaties ,"
@@ -1219,7 +1219,7 @@ id,answer
 1218,do not
 1219,amend
 1220,Sometimes
-1221,(
+1221,UNFCCC
 1222,) established
 1223,for the
 1224,UNFCCC
@@ -1268,7 +1268,7 @@ id,answer
 1267,"denunciations ,"
 1268,that where a
 1269,that it is not
-1270,.
+1270,possible
 1271,0
 1272,that it is not
 1273,from the
@@ -1357,10 +1357,10 @@ id,answer
 1356,UN
 1357,members ' obligations
 1358,have to
-1359,","
+1359,follow
 1360,0
 1361,official legal procedures
-1362,","
+1362,have to
 1363,UN
 1364,has been
 1365,by some
@@ -1389,13 +1389,13 @@ id,answer
 1388,And
 1389,gain congressional support
 1390,"impose long-term , complex legal obligations"
-1391,Iran
+1391,and other
 1392,and can be
 1393,modified (
 1394,that any
 1395,modified (
 1396,that any
-1397,","
+1397,lists -Union
 1398,"normal legislation process ,"
 1399,"normal legislation process ,"
 1400,on any
@@ -1407,11 +1407,11 @@ id,answer
 1406,attempted
 1407,use
 1408,using
-1409,","
-1410,local governments
-1411,","
+1409,local governments
+1410,use
+1411,local governments
 1412,", treaties allowed native peoples"
-1413,","
+1413,Māori
 1414,", establishing"
 1415,Queensland
 1416,are an
@@ -1427,23 +1427,23 @@ id,answer
 1426,"'' ,"
 1427,trio
 1428,released
-1429,","
-1430,","
+1429,band
+1430,band
 1431, Bon Jovi
 1432,released another number
 1433,10 million
 1434,group
-1435,(
+1435,5150
 1436,Sammy Hagar
 1437,hit ``
-1438,(
+1438,) .
 1439,These Days
 1440,As
 1441,one
 1442,Quiet Riot
-1443,.
+1443,in the
 1444,from the
-1445,","
+1445,During
 1446,During
 1447,Link Wray
 1448,1958
@@ -1460,20 +1460,20 @@ id,answer
 1459,Blizzard
 1460,of these
 1461,1990
-1462,(
+1462,"debut album ,"
 1463,followed
 1464,'s
 1465, England
 1466,2003
-1467,California
-1468,Runnin
+1467,'s
+1468,Fellow Australians Airbourne
 1469,managed
 1470,of the
 1471, Jimi Hendrix
 1472,Wolf
 1473,1965
 1474,'s version
-1475,1972
+1475,1970s
 1476,1970
 1477,", vocalist"
 1478,1975
@@ -1492,18 +1492,18 @@ id,answer
 1491,2005
 1492, Bon Jovi
 1493, Bon Jovi
-1494,'
-1495,Sorry
+1494,Dave Grohl
+1495,", whose breakthrough album"
 1496,The
 1497,The
-1498,1960s
+1498,to be
 1499,and a
 1500,backing
 1501,0
 1502,Slash
-1503,0
+1503,In
 1504,1986
-1505,","
+1505,The Kinks
 1506,Alice Cooper
 1507,classic album
 1508,Ronnie Montrose
@@ -1535,20 +1535,20 @@ id,answer
 1534,emerged
 1535,emerged
 1536,17 million
-1537,(
+1537,'s comeback album
 1538,1987
-1539,'
-1540,'
-1541,)
+1539,released
+1540,' original lineup
+1541,former members
 1542,My Life
 1543,platinum-certified
 1544,Scott Weiland
-1545,'
-1546,and the
-1547,state
+1545,Chinese Democracy
+1546,The Military College
+1547,the U.S.
 1548,City
-1549,","
-1550,","
+1549,located
+1550,fronting
 1551,is the
 1552,by the
 1553,between the
@@ -1566,7 +1566,7 @@ id,answer
 1565,expansion
 1566,47.9
 1567,As
-1568,.
+1568,Mount Pleasant
 1569,Summer
 1570,in the
 1571,and is
@@ -1576,40 +1576,40 @@ id,answer
 1575,September
 1576,15
 1577,The
-1578,","
+1578,21
 1579,and the
 1580,area
 1581,at the
 1582,"548,404"
 1583, North Charleston
 1584,"9,123"
-1585,","
-1586,(
-1587,","
-1588,and the
-1589,Parish
+1585,counties :
+1586,Berkeley County
+1587,imposed .
+1588,The Military College
+1589,limits
 1590,it was
-1591,St. Michael
-1592,","
+1591,St. Philip
+1592,of these
 1593,It
 1594,allowed
 1595,John Locke
 1596,1630–1685
 1597,As
-1598,km
+1598,"mi ,"
 1599,Johnson
 1600,0
-1601,","
+1601,moved east
 1602,until after the
 1603,1830
 1604,so-called
 1605,The
-1606,Caribbean
+1606,Barbados
 1607,'s claims
 1608,so-called
 1609,largely removed
 1610,Johnson
-1611,tried
+1611,so-called
 1612,by the
 1613,to have
 1614,Many
@@ -1626,19 +1626,19 @@ id,answer
 1625,of the
 1626,20th
 1627,with the
-1628,","
+1628,height
 1629,records show
 1630,of the
 1631,"54,000"
-1632,.
+1632,1770
 1633,1770
 1634,1748
 1635,1670
 1636,America
 1637,Charles Towne
-1638,0
+1638,The British
 1639,"2,000"
-1640,","
+1640,founded
 1641,Americans
 1642,Charles Towne
 1643,1780
@@ -1649,15 +1649,15 @@ id,answer
 1648,0
 1649,1793
 1650,cotton quickly became
-1651,0
+1651,Slaves
 1652,"3,785"
 1653,were in
 1654,were in
 1655,1790
 1656,1790
-1657,","
+1657,massive slave revolt planned
 1658,1822
-1659,","
+1659,tried
 1660,five
 1661,during the
 1662, Charles Town
@@ -1665,7 +1665,7 @@ id,answer
 1664,to them under
 1665,"17,000"
 1666,"churches ,"
-1667,","
+1667,1865
 1668,established
 1669,0
 1670,of the
@@ -1681,9 +1681,9 @@ id,answer
 1680,political meetings
 1681,0
 1682,by an
-1683,","
+1683,31
 1684,31
-1685,","
+1685,31
 1686,nearly destroyed
 1687,in a
 1688,state legislature passed
@@ -1691,7 +1691,7 @@ id,answer
 1690,1708
 1691,1896
 1692,study
-1693,Bible
+1693,people .
 1694,pastor
 1695,on the
 1696,from the
@@ -1752,11 +1752,11 @@ id,answer
 1751,The
 1752,This
 1753,in the
-1754,King Street
+1754, U.S.
 1755,city
 1756,downtown
 1757,The Arthur Ravenel
-1758,","
+1758,begins
 1759,( built
 1760,and the
 1761,across
@@ -1765,7 +1765,7 @@ id,answer
 1764,The
 1765,The Roman Catholic Diocese
 1766,"parochial schools ,"
-1767,Christ Our King School
+1767,The Roman Catholic Diocese
 1768,"university ) ,"
 1769,", located downtown"
 1770,", located downtown"
@@ -1776,18 +1776,18 @@ id,answer
 1775,Gian Carlo Menotti
 1776, Spoleto Festival USA
 1777,selected
-1778,station 's
+1778,closure
 1779,"2,500"
 1780,one
 1781,Weapons Station
-1782,"2,500"
-1783,","
+1782,and their
+1783,passed
 1784,1832
 1785,1832
 1786,incident .
 1787,on a
 1788,slave trade also depended
-1789,","
+1789,By
 1790,African
 1791,Piedmont
 1792,It
@@ -1808,7 +1808,7 @@ id,answer
 1807,in the
 1808,Ukrainian
 1809,"language mixtures , e.g ."
-1810,.
+1810,Surzhyk
 1811,'' .
 1812,language used
 1813,also influenced
@@ -1828,9 +1828,9 @@ id,answer
 1827,"33,400"
 1828,67.8
 1829,67.8
-1830,","
-1831,","
-1832,","
+1830,In
+1831,In
+1832,In
 1833,Warsaw Pact
 1834,dialects began
 1835,Indo-European
@@ -1864,10 +1864,10 @@ id,answer
 1863,it was
 1864,In
 1865,In March
-1866,German
+1866,"websites , slightly ahead"
 1867,language
 1868,".ru sites ,"
-1869,","
+1869,In
 1870,"primary regional groupings , ``"
 1871,dialects
 1872,consonant phonemes
@@ -1875,14 +1875,14 @@ id,answer
 1874,While
 1875,Stressed
 1876,spoken along
-1877,instead pronounced [
-1878,occurs
+1877,"dialect ) ,"
+1878,"dialects , instances"
 1879,Some
 1880,Vladimir Dal
 1881,19th
 1882,18th
 1883,20th
-1884,(
+1884,monumental
 1885,Borrowings
 1886,While
 1887,Borrowings
@@ -1897,12 +1897,12 @@ id,answer
 1896,was and
 1897,The Russian
 1898,The Russian
-1899,0
+1899,The Russian
 1900,one
 1901,According
-1902,Sciences
-1903,Sciences
-1904,Sciences
+1902,According
+1903,According
+1904,According
 1905,0
 1906,0
 1907,The
@@ -1918,7 +1918,7 @@ id,answer
 1917,0
 1918,Blocks
 1919,is now the
-1920,","
+1920,By
 1921,Leo Tolstoy
 1922,of the
 1923, Pushkin
@@ -1936,20 +1936,20 @@ id,answer
 1935,'s cantons .
 1936,of the
 1937,36
-1938,(
+1938,German
 1939,", whose buildings"
 1940,0
-1941,","
+1941,Canton
 1942,is the
-1943,(
+1943,Swiss
 1944,but the
-1945,)
-1946,(
+1945,but the
+1946,Swiss
 1947,1983
 1948,cities
-1949,.
+1949,became
 1950,ten
-1951,.
+1951,became
 1952,ten
 1953,1983
 1954,Duke
@@ -1996,17 +1996,17 @@ id,answer
 1995,on very
 1996,inner city districts
 1997,Marzili
-1998,used
+1998,6.69
 1999,Thirty
 2000,City
 2001,five
-2002,0
+2002,The
 2003,It
 2004,The
-2005,0
+2005,This
 2006,one
 2007,'s
-2008,0
+2008,The City Parliament
 2009,0
 2010,It
 2011,of the
@@ -2026,10 +2026,10 @@ id,answer
 2025,Austrian
 2026,33.0
 2027,0
-2028,","
-2029,%
-2030,20–64
-2031,20–64
+2028,born somewhere else
+2029,"population ,"
+2030,65
+2031,65
 2032,The
 2033,"59,948"
 2034,"59,948"
@@ -2051,8 +2051,8 @@ id,answer
 2050,impressive
 2051,Some
 2052,[ b̥æːrn ] )
-2053,","
-2054,25
+2053,Länggasse quarter
+2054,last election
 2055,0
 2056,are now
 2057,The
@@ -2069,18 +2069,18 @@ id,answer
 2068,Hans Hiltbrand
 2069,In
 2070,1421
-2071,","
+2071,two
 2072,Hans Gieng
 2073,As
 2074,of the
-2075,0
+2075,The
 2076,BSC Young Boys
 2077,major ice hockey team
 2078,The
 2079,of the
 2080,candidate
 2081,September
-2082,","
+2082,host
 2083,"[ update ] ,"
 2084,59
 2085,59
@@ -2107,7 +2107,7 @@ id,answer
 2106,8
 2107,2000
 2108,"9,045"
-2109,district
+2109,to the
 2110,The Marzilibahn
 2111,after the
 2112,after the
@@ -2118,7 +2118,7 @@ id,answer
 2117,century .
 2118,"countries , bound volumes"
 2119,1827
-2120,.
+2120,Superman
 2121,used
 2122,The
 2123,0
@@ -2126,7 +2126,7 @@ id,answer
 2125,European
 2126,collected
 2127,0
-2128,0
+2128,While
 2129,0
 2130,had a
 2131,Some
@@ -2142,11 +2142,11 @@ id,answer
 2141,Osamu Tezuka
 2142,1907
 2143,1907
-2144,0
+2144,Common
 2145,The
 2146,Superheroes
 2147,Thin
-2148,0
+2148,Common
 2149,1980s
 2150,Japanese
 2151,as the
@@ -2172,10 +2172,10 @@ id,answer
 2171,Comic
 2172,collections
 2173,Common
-2174,0
+2174,Gag
 2175,Gag
 2176,", western"
-2177,0
+2177,Comics
 2178,Speech
 2179,Superheroes
 2180,Will Eisner
@@ -2218,12 +2218,12 @@ id,answer
 2217,Speech
 2218,Some
 2219,Some
-2220,0
+2220,Film
 2221,words
 2222,has been
 2223,McCloud
 2224,there are
-2225,Scott McCloud
+2225,Thierry Groensteen
 2226,Towards
 2227,in the
 2228,Henri Vanlier
@@ -2253,7 +2253,7 @@ id,answer
 2252,often
 2253,Cartooning
 2254,Cartooning
-2255,Iron Man
+2255,Wolverine
 2256,Most
 2257,New York City
 2258,in the
@@ -2301,7 +2301,7 @@ id,answer
 2300,Marvel NOW
 2301,began publishing
 2302,fell victim
-2303,0
+2303,Marvel NOW
 2304,Marvel NOW
 2305,Marvel NOW
 2306,'s fictional characters operate
@@ -2312,38 +2312,38 @@ id,answer
 2311,A
 2312,was a
 2313,Marvel NOW
-2314,1994
+2314,acquired
 2315,With
 2316,1972
-2317,.
-2318,.
-2319,","
+2317,newsstand distribution network affected
+2318,newsstand distribution network affected
+2319,announced
 2320,by the
 2321,In
-2322,.
+2322,newsstand distribution network affected
 2323,held
 2324,of most of
 2325,already licensed reprints
-2326,0
+2326,Marvel NOW
 2327,1976
 2328,0
 2329,became
-2330,#
+2330,America
 2331, also saw
 2332,Contest
-2333,1998
+2333,In
 2334,1990s
 2335,0
-2336,","
+2336,began selling
 2337,comic book distributor
 2338,such as the
 2339, Martin Goodman
-2340,","
+2340,had some of its
 2341,During Shooter
 2342,Marvel NOW
 2343,Marvel NOW
 2344,0
-2345,Diamond Comic Distributors Inc
+2345,of only
 2346,switched
 2347,Marvel NOW
 2348,Marvel NOW
@@ -2354,12 +2354,12 @@ id,answer
 2353,shareholders
 2354,4.2 billion
 2355,Marvel NOW
-2356,","
+2356,and its
 2357,September
 2358,2012
 2359,included
 2360, also saw
-2361,announced
+2361,"digital comics ,"
 2362,Infinite Comics
 2363,0.745
 2364,Time
@@ -2373,7 +2373,7 @@ id,answer
 2372,2011
 2373,becoming
 2374,Walt Disney World
-2375,","
+2375,'s purchase
 2376,such as
 2377,associated
 2378, Stalin
@@ -2398,7 +2398,7 @@ id,answer
 2397,0
 2398,dismissal also signaled
 2399,Thus
-2400,.
+2400,end
 2401,0
 2402,0
 2403,with the
@@ -2414,12 +2414,12 @@ id,answer
 2413,also
 2414,replied
 2415,air battle
-2416,","
+2416,to the
 2417,granted
 2418,granted
 2419, Poland
 2420,Hitler
-2421,","
+2421,part
 2422,Most
 2423,it was more
 2424,In
@@ -2428,14 +2428,14 @@ id,answer
 2427,At
 2428,military negotiator
 2429,0
-2430,Germany
-2431,","
+2430,Soviets
+2431,'s reassurances
 2432,after the
 2433,POWs
 2434,eastern
 2435,"part ,"
 2436,It
-2437,1939
+2437,On
 2438,On
 2439,Soviet
 2440,Stalin
@@ -2462,7 +2462,7 @@ id,answer
 2461, Carr
 2462,The
 2463,Herbert Biberman
-2464,0
+2464,The Communist Party
 2465,0
 2466,Western Communists
 2467,Western Communists
@@ -2475,9 +2475,9 @@ id,answer
 2474,On
 2475, Hitler
 2476,Georgi Dimitrov
-2477,September
+2477,On
 2478,All Polish
-2479,0
+2479,The
 2480,before the
 2481,Manchuria
 2482,to the
@@ -2486,16 +2486,16 @@ id,answer
 2485,The Soviets
 2486,The Soviets
 2487,Stalin
-2488,","
+2488,to the
 2489,and an
 2490,Stalin
 2491,between the
-2492,0
+2492,In
 2493,The
 2494,Axis
 2495,0
 2496,Hitler
-2497,0
+2497,Before
 2498,willing
 2499,Moscow
 2500,4.3 million
@@ -2506,7 +2506,7 @@ id,answer
 2505,0
 2506,"war ,"
 2507,In
-2508,0
+2508,The
 2509,"world , without mentioning"
 2510,In November
 2511,Raymond J. Sontag
@@ -2520,24 +2520,24 @@ id,answer
 2519,Molotov
 2520,Molotov
 2521, Geoffrey Roberts
-2522,0
-2523,"policy , stated : ``"
+2522,Although
+2523,'non-intervention '
 2524,0
 2525,Pact
 2526,Hitler
 2527,consider
 2528,0
 2529,as a
-2530,invasion
+2530,with the
 2531,fought
 2532,eight
 2533,strategy behind
 2534,established
-2535,invasion
+2535,with the
 2536,function
-2537,invasion
-2538,invasion
-2539,invasion
+2537,with the
+2538,with the
+2539,with the
 2540,at a
 2541,0
 2542,"rearmed ,"
@@ -2546,7 +2546,7 @@ id,answer
 2545,of the
 2546,principles also drove
 2547,strategy behind
-2548,.
+2548,", requested admission"
 2549,0
 2550,20
 2551,Warsaw Pact
@@ -2555,15 +2555,15 @@ id,answer
 2554,1954
 2555,"rearmed ,"
 2556,inside
-2557,","
+2557,Foreign Affairs Minister
 2558,1991
-2559,invasion
+2559,with the
 2560,Supreme Commander
 2561,eight
-2562,stay
+2562,1966
 2563,agreed
 2564,working
-2565,West Germany
+2565,1955
 2566,remaining
 2567,0
 2568,armed forces ' sole joint action
@@ -2576,7 +2576,7 @@ id,answer
 2575,made
 2576,"rearmed ,"
 2577,100
-2578,invasion
+2578,with the
 2579,Seven
 2580,The
 2581,"desert ,"
@@ -2605,7 +2605,7 @@ id,answer
 2604,"instead ,"
 2605,of the
 2606,Terra Australis
-2607,0
+2607,Explorer
 2608,The Argentine
 2609,The
 2610,500
@@ -2622,7 +2622,7 @@ id,answer
 2621,"32,000"
 2622,1980
 2623,The
-2624,0
+2624,Some
 2625,Small-scale
 2626,1957
 2627,Travel
@@ -2667,8 +2667,8 @@ id,answer
 2666,"period ,"
 2667,period (
 2668,is at
-2669,(
-2670,.
+2669,"16,050"
+2670,land surface
 2671,nearly twice
 2672,98
 2673,'s continents .
@@ -2678,7 +2678,7 @@ id,answer
 2677,and there is no
 2678, Aristotle
 2679,Apuleius
-2680,Tyre
+2680,unpreserved world map
 2681,This
 2682,A.D
 2683,dominant role
@@ -2686,7 +2686,7 @@ id,answer
 2685,The
 2686,around
 2687,cooling
-2688,0
+2688,Several
 2689,inhabitants per
 2690,Given
 2691,An Orthodox
@@ -2700,15 +2700,15 @@ id,answer
 2699,winter
 2700,The
 2701,is the only
-2702,","
-2703,","
+2702,"4,892"
+2703,highest peak
 2704,highest peak
-2705,","
+2705,In
 2706,is at
 2707,1983
 2708,1983
 2709,minerals development
-2710,.
+2710,regulate mining
 2711,"following year , however ,"
 2712,became
 2713,In
@@ -2734,7 +2734,7 @@ id,answer
 2733,has been
 2734,0.2
 2735,cooling
-2736,direct result
+2736,from the
 2737,for its
 2738,", commander"
 2739,Sir
@@ -2744,7 +2744,7 @@ id,answer
 2743,Madrid
 2744,is the
 2745,The Antarctic Treaty Consultative Meeting
-2746,force
+2746,Madrid
 2747,( also known
 2748,1998
 2749,2048
@@ -2771,15 +2771,15 @@ id,answer
 2770,90
 2771,most of the
 2772,There
-2773,of the
-2774,","
+2773,The
+2774,Jupiter 's moon
 2775,2008
 2776,team embarked
 2777,West Antarctica
 2778,40
 2779,During
 2780,40
-2781,so that
+2781,and the
 2782,than the
 2783,of the
 2784,than the
@@ -2796,7 +2796,7 @@ id,answer
 2795,life ever occurred
 2796,December
 2797,Elizabeth Land
-2798,","
+2798,Chilean
 2799,2012
 2800,Falkland Islands
 2801,The Argentine
@@ -2836,28 +2836,28 @@ id,answer
 2835,religions
 2836,established church even
 2837,In
-2838,","
+2838,1773
 2839,1773
 2840,1786
 2841,0
-2842,","
-2843,","
+2842,theologian
+2843,theologian
 2844,1644
 2845,Thomas Jefferson
 2846,James Madison
 2847,Thanksgiving
 2848,attended religious services
 2849,four
-2850,","
+2850,and as
 2851,was the
 2852,encouraged
-2853,State
+2853,", arising"
 2854,in which
 2855,", attempt"
 2856,1878
 2857,jurisprudence
-2858,","
-2859,in which the
+2858,98
+2859,jurisprudence
 2860,court ruled
 2861,'s approach
 2862,Virginia Statute
@@ -2929,7 +2929,7 @@ id,answer
 2928,has no
 2929,crime ``
 2930,403
-2931,","
+2931,In
 2932,Kurtzman
 2933,Third
 2934,court 's decision argued
@@ -2939,9 +2939,9 @@ id,answer
 2938,Second
 2939,in an
 2940,three
-2941,0
+2941,In
 2942,passed measures reaffirming
-2943,","
+2943,"case ,"
 2944,five-justice majority held
 2945,Ten
 2946,", ``"
@@ -2950,7 +2950,7 @@ id,answer
 2949,Ten
 2950,"lead prayer ,"
 2951,12-696
-2952,","
+2952,12-696
 2953,0
 2954,NC Constitution
 2955,`` separation
@@ -2965,10 +2965,10 @@ id,answer
 2964,America
 2965,interpreted
 2966,or the
-2967,0
+2967,Subsequent
 2968,to have
 2969,future state
-2970,example . )
+2970,2
 2971,that the
 2972,of the
 2973,federal
@@ -2987,8 +2987,8 @@ id,answer
 2986,After
 2987,"faiths , even perhaps eclipsing"
 2988,modern concept
-2989,","
-2990,","
+2989,Columbia Law
+2990,Columbia Law
 2991,American
 2992,modern conception
 2993, J. Brent Walker
@@ -3004,11 +3004,11 @@ id,answer
 3003,in the
 3004,John F. Kennedy
 3005,specific relation
-3006,at all
+3006,His
 3007,has not
 3008,flourish .
 3009, Robert S. Wood
-3010,","
+3010,Toronto-based Center
 3011,that the
 3012,how they
 3013,"pump ,"
@@ -3101,7 +3101,7 @@ id,answer
 3100,The
 3101,Annelids
 3102,Annelids
-3103,0
+3103,The
 3104,The
 3105,two
 3106,These
@@ -3135,8 +3135,8 @@ id,answer
 3134,them in
 3135,0
 3136,Although
-3137,0
-3138,0
+3137,Many
+3138,Many
 3139,"exports ,"
 3140,549
 3141,small shelly fossil
@@ -3170,12 +3170,12 @@ id,answer
 3169,``
 3170,which they
 3171,When
-3172,.
+3172,0
 3173,away
 3174,1954
 3175,six
-3176,.
-3177,.
+3176,0
+3177,0
 3178,and not
 3179,0
 3180,first pope
@@ -3189,9 +3189,9 @@ id,answer
 3188,concluded
 3189,concluded
 3190,As
-3191,","
+3191,entered
 3192, `` [ citation needed ]
-3193,","
+3193,limited
 3194,Like
 3195,Like
 3196,for the
@@ -3201,7 +3201,7 @@ id,answer
 3200,1976
 3201,Domenico Tardini
 3202,As
-3203,appointed
+3203,together
 3204,did not have a
 3205,did not have a
 3206,but each
@@ -3237,7 +3237,7 @@ id,answer
 3236,received
 3237,He
 3238,Angelo Roncalli
-3239,0
+3239,But
 3240, Pius XII
 3241,at the
 3242,1969
@@ -3265,7 +3265,7 @@ id,answer
 3264,after his
 3265,28
 3266,corporis
-3267,.
+3267,Body
 3268,Priestly
 3269,contributed
 3270,attendance
@@ -3277,37 +3277,37 @@ id,answer
 3276,fourth sessions
 3277,Unmoved
 3278,should be
-3279,0
+3279,He
 3280,These
-3281,.
+3281,State
 3282,0
 3283,March
 3284, Paul VI
-3285,0
+3285,These
 3286,below the
 3287,asked towards
 3288,80
 3289,to the
 3290,6
 3291,and not
-3292,.
+3292,Rome
 3293,"liturgies underwent revision ,"
 3294,in the
 3295,three
 3296,for the
 3297,"'s predecessor ,"
 3298,Further
-3299,0
-3300,0
+3299,He
+3300,But
 3301,John Paul II
 3302,created
 3303,created
-3304,engaged
+3304,dialogue
 3305,to be
 3306,1976
 3307,Montini
 3308,0
-3309,","
+3309,called
 3310,Pius XII
 3311,five
 3312, Paul VI
@@ -3317,15 +3317,15 @@ id,answer
 3316,October
 3317, Paul VI
 3318,"ring ,"
-3319,pleaded
+3319,peace
 3320,created
 3321,foreign embassies accredited
 3322, Paul VI
 3323,It
 3324,0
 3325,He
-3326,.
-3327,.
+3326,Body
+3327,Body
 3328,of the
 3329,on the
 3330,Ecclesiam
@@ -3340,26 +3340,26 @@ id,answer
 3339,0
 3340,expanded upon
 3341,more than a
-3342,","
+3342,loving
 3343,Paul VI
 3344,The
 3345,expanded upon
 3346,Robert McNamara
 3347,As World Bank President
 3348,money
-3349,0
+3349,In
 3350,Aníbal Muñoz Duque
 3351,The
 3352,away
 3353,encyclical
 3354,expanded upon
-3355,.
+3355,negative reaction
 3356,These
 3357,contributed
 3358,from a
 3359,one
 3360,These
-3361,","
+3361,In
 3362,1965
 3363,which was
 3364,Shenouda III
@@ -3369,7 +3369,7 @@ id,answer
 3368,2
 3369,during his
 3370,during his
-3371,","
+3371,head
 3372,Unmoved
 3373,created
 3374,``
@@ -3380,10 +3380,10 @@ id,answer
 3379,of the
 3380,0
 3381,dialogue
-3382,0
-3383,0
+3382,Like
+3383,Like
 3384,Fredrik A. Schiotz
-3385,","
+3385,anniversary
 3386,Augustin Bea
 3387,Augustin Bea
 3388,0
@@ -3392,7 +3392,7 @@ id,answer
 3391,Bernardin Gantin
 3392,consistory
 3393,0
-3394,","
+3394,took
 3395,Castel Gandolfo
 3396,The
 3397,Giovanni Battista Enrico Antonio Maria Montini
@@ -3407,7 +3407,7 @@ id,answer
 3406,Francis
 3407,A
 3408,that had been
-3409,.
+3409,0
 3410,May
 3411,indeed
 3412,0
@@ -3422,7 +3422,7 @@ id,answer
 3421,intercession
 3422,reintegration
 3423,five
-3424,.
+3424,became mandatory
 3425,Pope
 3426,on their own
 3427,0
@@ -3455,7 +3455,7 @@ id,answer
 3454,citizens
 3455,More
 3456,often distinguished
-3457,30
+3457,The
 3458, Emomali Rahmon
 3459,1.2 million
 3460,0
@@ -3465,7 +3465,7 @@ id,answer
 3464,25
 3465,2015
 3466,2010
-3467,","
+3467,In
 3468,Freedom
 3469,Kokhir Rasulzoda
 3470,Murodali Alimardon
@@ -3511,9 +3511,9 @@ id,answer
 3510,over the
 3511,0
 3512,Real
-3513,0
+3513,Elections
 3514,closure
-3515,Tajik Autonomous Soviet
+3515,as a
 3516,rapid expansion
 3517,", collectivization"
 3518,forced resettlement occurred throughout
@@ -3537,8 +3537,8 @@ id,answer
 3536,lies
 3537,Afghanistan
 3538,The
-3539,","
-3540,0
+3539,if not all
+3540,The
 3541,in the
 3542,0
 3543,in the
@@ -3570,7 +3570,7 @@ id,answer
 3569,"7,349,145"
 3570,age
 3571,35
-3572,.
+3572,poverty
 3573,All
 3574,"southeast , bordering"
 3575,of the
@@ -3584,15 +3584,15 @@ id,answer
 3583,"ut-Tahrir ,"
 3584,"ut-Tahrir ,"
 3585,By
-3586,)
+3586,Religious Affairs
 3587,Religious
 3588,Failure
 3589,by the
 3590,"104,272"
-3591,%
+3591,1
 3592,considered activities
 3593,2009
-3594,.
+3594,system
 3595,As
 3596,As
 3597,"live together ,"
@@ -3605,7 +3605,7 @@ id,answer
 3604, Xenophon
 3605,that to his
 3606,declared independence
-3607,(
+3607,at the
 3608,1600–1200
 3609,1300s–1190
 3610,16th
@@ -3633,8 +3633,8 @@ id,answer
 3632,1820s
 3633,0
 3634, (
-3635,0
-3636,","
+3635, (
+3636,was an
 3637,1922
 3638,0
 3639,declared independence
@@ -3642,9 +3642,9 @@ id,answer
 3641,highlands surrounding
 3642,0
 3643,0
-3644,(
+3644,to them as
 3645,0
-3646,.
+3646,called
 3647,1717
 3648,1080
 3649,"paganism ,"
@@ -3664,16 +3664,16 @@ id,answer
 3663,Kirakos Virapetsi
 3664,Kirakos Virapetsi
 3665,there have been
-3666,Roman Catholic Pope
+3666,Armenian Evangelical Church
 3667,These
 3668,Mother
-3669,","
+3669,") ,"
 3670,Mesrop Mashtots
 3671,0
 3672,Moses of Chorene
 3673,Moses of Chorene
 3674,Tiflis
-3675,0
+3675,The
 3676,with the
 3677,Hrip'simé
 3678,0
@@ -3725,8 +3725,8 @@ id,answer
 3724,0
 3725,2008
 3726,concluded
-3727,","
-3728,","
+3727,Moody
+3728,Moody
 3729,IndyMac
 3730,Charles Schumer
 3731,put
@@ -3738,21 +3738,21 @@ id,answer
 3737,"secondary mortgage market collapsed ,"
 3738,Charles Schumer
 3739,unsafe
-3740,FSB
+3740,"'s assets ,"
 3741,of all
 3742,"10,000"
 3743,conservatorship .
-3744,July
+3744,announced plans
 3745,100
 3746,0
 3747,2008
 3748,three
-3749,7
+3749,Chapter
 3750,on the
 3751,commercial paper issued
 3752,2008
 3753,144.5 billion
-3754,%
+3754,4.65
 3755,Timothy Geithner
 3756,grown
 3757,entities
@@ -3761,7 +3761,7 @@ id,answer
 3760,that is the
 3761,as of
 3762,The
-3763,capital
+3763,as of
 3764,0
 3765,broad
 3766,by over
@@ -3774,25 +3774,25 @@ id,answer
 3773,than they did in
 3774,"tables ,"
 3775,"clear global recession ,"
-3776,:
+3776,expected recession durations
 3777,"economy ,"
 3778,over by the
-3779,of the
+3779,consumption accounted
 3780,14.4
 3781,14.4
 3782,0
-3783,","
+3783,zero
 3784,zero
 3785,251 billion
 3786,"300,000"
 3787,recommends
-3788,", reductions"
+3788,by the
 3789,that the
 3790,To
 3791,They
 3792,of the
 3793,remains
-3794,%
+3794,10.1
 3795,The
 3796,property located
 3797,10.1
@@ -3814,7 +3814,7 @@ id,answer
 3813,Advanced
 3814, Krugman
 3815,2010
-3816,reports : ``
+3816,The
 3817,[ commercial mortgage-backed securities ] loan underwriting occurred prior
 3818,commercial real estate
 3819,credit rating agencies .
@@ -3832,13 +3832,13 @@ id,answer
 3831,1.3 million
 3832,", lenders began foreclosure proceedings"
 3833,9.2
-3834,","
+3834,6.5
 3835,6.5
 3836,`` needs
 3837,crisis .
 3838,Lower
-3839,current account deficit increased
-3840,1.5
+3839,that between
+3840,current account deficit increased
 3841,into the
 3842,payments identity requires
 3843,into the
@@ -3850,7 +3850,7 @@ id,answer
 3849,events
 3850,220
 3851,63
-3852,mortgages purchased
+3852,from some
 3853,", `` defective mortgages ("
 3854,Clayton
 3855,"900,000"
@@ -3874,13 +3874,13 @@ id,answer
 3873,even reinforced
 3874,"crisis , financial institutions became highly leveraged , increasing"
 3875,such as
-3876,0
+3876,Governments
 3877,These
 3878,made
 3879,five
 3880,"financial leverage ( see diagram ) ,"
 3881,"capital requirements , intended"
-3882,30
+3882,4.1 trillion
 3883,2008
 3884,"behavior ,"
 3885,debt ) simultaneously
@@ -3909,7 +3909,7 @@ id,answer
 3908,2005
 3909,The
 3910,to the
-3911,"crisis , enabled"
+3911,banks ' risk exposures prevented markets
 3912,have been if
 3913,had been
 3914,For
@@ -3924,7 +3924,7 @@ id,answer
 3923,event party
 3924, George Soros
 3925,"complex ,"
-3926,0
+3926,Similarly
 3927,0
 3928,0
 3929,0
@@ -3936,7 +3936,7 @@ id,answer
 3935,Paul Krugman
 3936,"speech ,"
 3937,In
-3938,that they
+3938,because of
 3939,2007
 3940,2007
 3941,0
@@ -3944,12 +3944,12 @@ id,answer
 3943,2009
 3944,Mark Zandi
 3945,: ``
-3946,%
+3946,by over
 3947,close
 3948,by the
 3949,commodity prices followed
 3950,147
-3951,","
+3951,as the
 3952,important
 3953,pulling back
 3954,Michael Greenberger
@@ -3968,7 +3968,7 @@ id,answer
 3967,"return , offer generous compensation"
 3968,Raghuram Rajan
 3969,mainstream economists except
-3970,0
+3970,A
 3971,economic school regarded
 3972,testimony confessed
 3973,A
@@ -3999,10 +3999,10 @@ id,answer
 3998,77
 3999,77
 4000,On
-4001,European Commission
+4001,extremely weak growth
 4002,0.1
 4003,0.1
-4004,IMF
+4004,", launched numbers predicting"
 4005,and the
 4006,expand money supplies
 4007,spending
@@ -4015,18 +4015,18 @@ id,answer
 4014,Joseph Stiglitz
 4015,finance
 4016,key advisers introduced
-4017,.
+4017,series
 4018,proposed additional regulations limiting
 4019,Paul Volcker
 4020,Obama
-4021,2009
-4022,2009
+4021,2010
+4022,2010
 4023,is not
 4024,but not the
 4025,which was
 4026,2008
 4027,"crisis ,"
-4028,","
+4028,fiscal year
 4029,BNP Paribas
 4030,financial assets dramatically declined
 4031,American Recovery
@@ -4059,13 +4059,13 @@ id,answer
 4058,0
 4059,"lend , slowing economic activity ."
 4060,2011
-4061,2008
+4061,dates
 4062,failure
 4063,0
 4064,much risk ;
 4065,tough competition
-4066,0
-4067,","
+4066,During
+4067,2004–2007
 4068,for the
 4069,0
 4070,six
@@ -4080,7 +4080,7 @@ id,answer
 4079,6
 4080,0
 4081,safety
-4082,at the
+4082,of the
 4083,held
 4084,0
 4085,467 billion
@@ -4105,7 +4105,7 @@ id,answer
 4104,every bubble—even
 4105,real estate entrepreneurs—Augustus
 4106,two
-4107,","
+4107,In August
 4108,Sam Houston
 4109,1836
 4110,Allen
@@ -4120,7 +4120,7 @@ id,answer
 4119,Due
 4120,'s economic base .
 4121,manufacturing plants
-4122,","
+4122,petroleum industry
 4123,Due
 4124,established
 4125,1986
@@ -4130,7 +4130,7 @@ id,answer
 4129,population boom ended abruptly
 4130,1990s
 4131,"recession ,"
-4132,0
+4132,When World War II
 4133,after the
 4134,'s land surface
 4135,of the
@@ -4144,11 +4144,11 @@ id,answer
 4143,The
 4144,of a
 4145,1970s—many
-4146,","
+4146,tallest structure
 4147,A
-4148,","
+4148,15th
 4149,up in
-4150,305
+4150,) -tall
 4151,A
 4152,Commerce Tower
 4153,", downtown"
@@ -4158,29 +4158,29 @@ id,answer
 4157,13
 4158,13
 4159,2006
-4160,Business
+4160,appeared
 4161,92
 4162,Forty
 4163,13
 4164,longest running
 4165,", held"
 4166,0
-4167,.
+4167,diverse cultures
 4168,to be
 4169,annual
 4170,20
 4171,0
 4172,annual night-time
-4173,five
+4173,to be
 4174,'s economic base .
 4175,200
-4176,0
+4176,The
 4177,total area
 4178,0
 4179,"56,405"
-4180,.
+4180,water park located north
 4181,0
-4182,.
+4182,water park located north
 4183,23rd
 4184,Sylvester Turner
 4185,has a
@@ -4190,7 +4190,7 @@ id,answer
 4189,The
 4190,state
 4191,16
-4192,0
+4192,The City
 4193,The
 4194,United States
 4195,The Houston–The Woodlands–Sugar Land
@@ -4202,21 +4202,21 @@ id,answer
 4201,is a
 4202,from the
 4203,from the
-4204,.
+4204,distinct state universities
 4205,is the most
 4206,2.239 million
 4207,which is the
 4208,The City
-4209,)
+4209,and the
 4210,'s population ;
-4211,also
+4211,census-estimated
 4212,and the
 4213,principal city
 4214,to be the most
-4215,","
+4215,inland converged
 4216,served
 4217,city
-4218,","
+4218,was the
 4219,and the
 4220,United States
 4221,"150,000"
@@ -4225,7 +4225,7 @@ id,answer
 4224,Houston
 4225,available
 4226,"significant affordable housing , sparing"
-4227,","
+4227,In September
 4228,"42,697"
 4229,Space Center
 4230,to its
@@ -4237,17 +4237,17 @@ id,answer
 4236,include
 4237,Facilities
 4238,Hall—home
-4239,0
+4239,It
 4240,The Bayou Music Center
 4241,is the
 4242,Houston
-4243,(
+4243,"'s largest shopping mall , located"
 4244,BBVA Compass Stadium
 4245,downtown
 4246,NRG Astrodome
 4247,( home
 4248,'s first retractable-roof stadium
-4249,","
+4249,"university ,"
 4250,is a
 4251,"university ,"
 4252,0
@@ -4264,21 +4264,21 @@ id,answer
 4263,2007
 4264,to more
 4265,United States
-4266,.
+4266,most of
 4267,'s population ;
 4268,and has been
-4269,.
+4269,most of
 4270,In January
-4271,.
+4271,most of
 4272,5
-4273,0
+4273,However
 4274,0
 4275,One
 4276,One
 4277,Houston
 4278,80.5
 4279,1960
-4280,)
+4280,known
 4281,1837
 4282,Transportation
 4283,to be the most
@@ -4302,16 +4302,16 @@ id,answer
 4301,However
 4302,Winds
 4303,coldest temperature officially recorded
-4304,.
+4304,most of
 4305,0
 4306,Democratic
-4307,(
+4307,62
 4308,68
 4309,26
 4310,American Indians
 4311,"strengths ,"
 4312,2010
-4313,.
+4313,62.4
 4314,gross domestic product exceeding
 4315,gross domestic product exceeding
 4316,26
@@ -4325,7 +4325,7 @@ id,answer
 4324,as the
 4325,two
 4326,2008
-4327,","
+4327,appeared
 4328,U.S.
 4329,one
 4330,within
@@ -4350,11 +4350,11 @@ id,answer
 4349,incorporated
 4350,incorporated
 4351,Locations
-4352,.
+4352,predate
 4353,", totaling"
-4354,","
+4354,Centered
 4355,0
-4356,","
+4356,15th
 4357,23 million
 4358,( known
 4359,to be the most
@@ -4368,20 +4368,20 @@ id,answer
 4367,to more
 4368,2010
 4369,TDECU Stadium
-4370,0
+4370,TDECU Stadium
 4371,1962
-4372,)
+4372,''
 4373,one
-4374,0
+4374,At-large
 4375,14
 4376,At-large
 4377,At-large
-4378,0
+4378,At-large
 4379,"40,000"
 4380,of the
 4381,Four
 4382,Located
-4383,","
+4383,one
 4384,served
 4385,0
 4386,1995
@@ -4392,7 +4392,7 @@ id,answer
 4391,The
 4392,and its
 4393,and its
-4394,(
+4394,primary city airport
 4395,0
 4396,ten
 4397,The Houston Air Route Traffic Control Center
@@ -4400,14 +4400,14 @@ id,answer
 4399,'s highest railways
 4400,702
 4401,At
-4402,.
+4402,ft )
 4403,region area contains
-4404,;
+4404,range affects
 4405,The
 4406,Edelweiss
 4407,goes back
 4408,on a
-4409,","
+4409,century
 4410, Hannibal
 4411,with an
 4412,kept
@@ -4468,11 +4468,11 @@ id,answer
 4467,0
 4468,erosion
 4469,well-developed
-4470,.
+4470,late-stage orogeny causing
 4471,tectonic events
 4472,The Alps
 4473,"north ,"
-4474,","
+4474,geologist
 4475,underwent
 4476,two
 4477,Cenozoic Era
@@ -4480,18 +4480,18 @@ id,answer
 4479,in the
 4480,and were
 4481,0
-4482,Mont Blanc
+4482,from the
 4483,is of
 4484,off by
 4485,The Matterhorn
 4486,of the
-4487,such as
+4487,high peaks
 4488,core regions
 4489,`` official ''
 4490,`` official ''
 4491,Alpine
 4492,1786
-4493,0
+4493,The
 4494,1788
 4495,Mont Blanc
 4496, Karl Blodig
@@ -4516,7 +4516,7 @@ id,answer
 4515,naturalist
 4516,in the
 4517,where he
-4518,(
+4518,"ft ) per year ,"
 4519,The Inn
 4520,The Inn
 4521,The Inn
@@ -4534,11 +4534,11 @@ id,answer
 4533,Forty
 4534,1850
 4535,provide lowland
-4536,0
+4536,High
 4537,0
 4538,80
 4539,500
-4540,such as the
+4540,all of which have
 4541,major tributaries flowing
 4542,The Rhone
 4543,valley
@@ -4567,7 +4567,7 @@ id,answer
 4566,is the
 4567,The
 4568,by the
-4569,","
+4569,have been
 4570,trend toward increased temperatures
 4571,Various
 4572,Thirteen thousand
@@ -4577,7 +4577,7 @@ id,answer
 4576,"prefers acidic soil ,"
 4577,tree line
 4578,The
-4579,.
+4579,gentian grow
 4580,after the
 4581,40
 4582,"higher altitudes ,"
@@ -4622,7 +4622,7 @@ id,answer
 4621,are more than
 4622,0
 4623,1991
-4624,","
+4624,Ötzi
 4625,1000
 4626,in the
 4627,by the
@@ -4655,9 +4655,9 @@ id,answer
 4654,Alps
 4655,0
 4656,0
-4657,19th
+4657,9th
 4658,found
-4659,(
+4659,) cave
 4660,prehistoric people .
 4661,people blindfolded
 4662,France
@@ -4666,7 +4666,7 @@ id,answer
 4665,1356
 4666,18th
 4667, Conrad Gessner
-4668,(
+4668,Horace-Bénédict
 4669,0
 4670, Jean-Jacques Rousseau
 4671,Albrecht von Haller
@@ -4680,7 +4680,7 @@ id,answer
 4679,established
 4680,1923
 4681,Reich
-4682,;
+4682,France
 4683, Switzerland
 4684,0
 4685,0
@@ -4715,7 +4715,7 @@ id,answer
 4714,Such
 4715,can not
 4716,19
-4717,","
+4717,", spoken"
 4718,of the more
 4719,'s highest railways
 4720,1923
@@ -4738,17 +4738,17 @@ id,answer
 4737,Most
 4738,The Saint Gotthard Pass
 4739,'s highest railways
-4740,","
+4740,") ,"
 4741,Alps
 4742,0
 4743,motorways
-4744,","
+4744,Europe
 4745,"( help·info ) , formerly romanized"
 4746,municipality
 4747,municipality
 4748,municipality
 4749,The
-4750,","
+4750,flows past
 4751,former name
 4752,The Canal
 4753,The
@@ -4770,7 +4770,7 @@ id,answer
 4769,'s rebellion
 4770,0
 4771,warlords
-4772,","
+4772,defeat
 4773,of their
 4774,Vietnam
 4775,Three
@@ -4778,20 +4778,20 @@ id,answer
 4777,during the
 4778,Kingdoms
 4779,"material resources , avoided direct confrontation"
-4780,(
+4780,Jiankang )
 4781,There
-4782,", remained"
-4783,.
+4782,major metropolitan centers
+4783,Qiangtang
 4784,three
 4785,1127
-4786,(
+4786,181–234
 4787,Three
-4788,","
+4788,agrarian lands
 4789,181–234
-4790,0
+4790,The
 4791,", remained"
 4792,Sui
-4793,.
+4793,became
 4794,960
 4795,1127
 4796,capital
@@ -4825,8 +4825,8 @@ id,answer
 4824,The
 4825,"natural resources ,"
 4826,has been an
-4827,","
-4828,","
+4827, Northeast Zhejiang
+4828,part
 4829,part
 4830,consists mostly
 4831,and the
@@ -4845,15 +4845,15 @@ id,answer
 4844,eleven
 4845,eleven
 4846,eleven
-4847,.
+4847,which is the
 4848,called ``
 4849,in a
 4850,0
 4851,0
 4852,", colloquially termed"
-4853,.
+4853,all other
 4854,one
-4855,0
+4855,However
 4856,1967
 4857,1956-1968
 4858,1980
@@ -4863,17 +4863,17 @@ id,answer
 4862,also
 4863,Zhoushan
 4864,Zhoushan
-4865,","
-4866,","
-4867,","
+4865,Hangzhou Bay Bridge
+4866,world .
+4867,Wenzhou
 4868,Cixi
 4869,recent years
 4870,followed
 4871,The
-4872,$
+4872,"3,603"
 4873,3.20 trillion
 4874,On Thursday
-4875,more than
+4875,Hongxiao Village
 4876,eight
 4877,two
 4878, Chen Hongming
@@ -4883,10 +4883,10 @@ id,answer
 4882,1727
 4883,Lishui
 4884,"folk religions ,"
-4885,%
-4886,%
+4885,23.02
+4886,23.02
 4887,cults
-4888,%
+4888,either irreligious
 4889,recognised folk religion
 4890,"1,800"
 4891,important presence since
@@ -4911,7 +4911,7 @@ id,answer
 4910,Wu
 4911,Anhui
 4912,Huizhou
-4913,","
+4913,agrarian lands
 4914,1949
 4915,"local dialects ,"
 4916,1978
@@ -4939,14 +4939,14 @@ id,answer
 4938,It
 4939,one
 4940,0
-4941,","
+4941,civilian
 4942,0
-4943,0
+4943,Beyond
 4944,twelve
 4945,in which the
 4946,doctrinal constructs .
 4947,'s readiness
-4948,","
+4948,friends .
 4949,national security
 4950,national security
 4951,ability
@@ -4964,7 +4964,7 @@ id,answer
 4963,countering air
 4964,in other
 4965,The DCA
-4966,)
+4966,Defensive Counterair
 4967,passive defense measures .
 4968,It
 4969,The DCA
@@ -4980,7 +4980,7 @@ id,answer
 4979,It
 4980,It
 4981,It
-4982,","
+4982,responsive operations ensuring information integrity
 4983,The
 4984,This
 4985,The
@@ -4990,7 +4990,7 @@ id,answer
 4989,control
 4990,Planning
 4991,accomplishment
-4992,0
+4992,These
 4993,operations
 4994,operations
 4995,operations
@@ -5003,8 +5003,8 @@ id,answer
 5002,``
 5003,evacuation forces
 5004,0
-5005,)
-5006,(
+5005,Personnel Recovery
+5006,PR
 5007,also enhances
 5008,development
 5009,manmade disasters
@@ -5019,20 +5019,20 @@ id,answer
 5018,0
 5019,one
 5020,0
-5021,)
+5021,U.S. Army Air Forces
 5022,Harry S Truman
 5023,Defense
 5024,1949
 5025,Although
-5026,0
+5026,Prior
 5027,Chuck Yeager
 5028,2000s
-5029,0
+5029,During
 5030,2008
-5031,","
+5031,Since
 5032,"deployment phase ,"
-5033,)
-5034,0
+5033,Basic Military Training
+5034,While
 5035,undertook
 5036,undertook
 5037,"330,000"
@@ -5042,7 +5042,7 @@ id,answer
 5041,This
 5042,and the
 5043,24
-5044,","
+5044,ground many
 5045,0
 5046,"flight time reductions , many"
 5047,for the
@@ -5061,8 +5061,8 @@ id,answer
 5060, ``
 5061, ``
 5062,aerospace forces
-5063,0
-5064,","
+5063,Although
+5064,also vary
 5065,In
 5066,to the
 5067,Although
@@ -5070,7 +5070,7 @@ id,answer
 5069,"agents ,"
 5070,Most
 5071,Other
-5072,one
+5072,year
 5073,"tech school training ,"
 5074,0
 5075,aeronautically-rated officers conducted
@@ -5132,28 +5132,28 @@ id,answer
 5131,that are not
 5132,1990s
 5133,1980s
-5134,","
+5134,B-1B
 5135,another
 5136,projected
 5137,Cargo
 5138,USAF Air Mobility Command
 5139,by the
-5140,(
+5140,") ,"
 5141,The WC-130H
 5142,The
 5143,used
 5144,used
-5145,(
+5145,") ,"
 5146,Although
 5147,The
 5148,Many
-5149,non-man-rated
+5149,retained
 5150,QF-4
 5151,are being
 5152,The USAF
 5153,The USAF
-5154,0
-5155,.
+5154,The
+5155,units starting
 5156,Robert Gates
 5157,resignations
 5158,0
@@ -5173,11 +5173,11 @@ id,answer
 5172,( ``
 5173,7
 5174,on the
-5175,0
+5175,Founded
 5176,1851
 5177,1855
 5178,admitted
-5179,","
+5179,university opened
 5180,was to
 5181,1855
 5182,1869
@@ -5195,7 +5195,7 @@ id,answer
 5194,of the
 5195,nine
 5196,"non-sectarian admissions , believing"
-5197,","
+5197,November
 5198,for its
 5199,0
 5200,0
@@ -5206,19 +5206,19 @@ id,answer
 5205,American Universities
 5206,founding member
 5207,1920
-5208,","
-5209,","
+5208,'s football stadium .
+5209,proposal
 5210,country
 5211,'s
 5212,"research universities ,"
 5213,"50,000"
-5214,.
+5214,drove drastic expansion
 5215,prominent anthropologist
 5216,first
-5217,Illinois
+5217,two
 5218,before his
 5219,Lincoln Hall
-5220,","
+5220,1980s
 5221,became
 5222,'s official color
 5223,"'s seal ,"
@@ -5233,17 +5233,17 @@ id,answer
 5232,", taking"
 5233,"campus ,"
 5234,Noyes
-5235,","
+5235,'s football stadium .
 5236,President
 5237,master plan
 5238,0
 5239,of the
 5240,United States
-5241,university opened
+5241,programs
 5242,Communication
 5243,0
 5244,with the
-5245,","
+5245,offers bachelor 's degrees
 5246,) listed
 5247,30
 5248,awarded
@@ -5253,13 +5253,13 @@ id,answer
 5252,designed
 5253,"1,500"
 5254,at the
-5255,","
+5255,outlines plans
 5256,0
 5257,0
 5258,0
 5259,sixteen
 5260,0
-5261,0
+5261,The
 5262,145
 5263,"2,190"
 5264,"2,190"
@@ -5274,17 +5274,17 @@ id,answer
 5273,44
 5274,received federal andor private loans
 5275,2009–2010
-5276,undergraduate students
-5277,undergraduate students
-5278,undergraduate students
-5279,undergraduate students
-5280,undergraduate students
+5276,", among"
+5277,", among"
+5278,", among"
+5279,", among"
+5280,", among"
 5281,selective ''
 5282,2020
-5283,","
+5283,interquartile range ( middle
 5284,interquartile range ( middle
-5285,interquartile range ( middle
-5286,","
+5285,freshmen enrolling
+5286,In April
 5287,Rahm Emanuel
 5288,Illinois
 5289,partnership
@@ -5320,16 +5320,16 @@ id,answer
 5319,"several alumni , including"
 5320,13 million
 5321,to which more than
-5322,","
+5322,Freshman Urban Program
 5323,") ,"
 5324,'s work
-5325,%
+5325,39
 5326,21
 5327,21
 5328,are the
 5329,complex ( commonly referred
 5330,The Daily Northwestern
-5331,0
+5331,Established
 5332,Syllabus
 5333,0
 5334,Northwestern Flipside
@@ -5338,7 +5338,7 @@ id,answer
 5337,four
 5338,0
 5339,0
-5340,","
+5340,Founded
 5341,0
 5342,is a
 5343,0
@@ -5369,7 +5369,7 @@ id,answer
 5368,34
 5369,did not
 5370,until the
-5371,Pat Fitzgerald
+5371,Division I FBS
 5372,two
 5373,federal prosecutors indicted
 5374,"senior safety , collapsed"
@@ -5384,11 +5384,11 @@ id,answer
 5383,Howard Hanson
 5384,and the
 5385,Democratic
-5386,","
+5386,such as
 5387,0
 5388,They
 5389,They
-5390,","
+5390,include
 5391,1973
 5392,38
 5393,correspondent
@@ -5398,7 +5398,7 @@ id,answer
 5397,( previously
 5398,", ad eundem , first female surgeon"
 5399,Feinberg School
-5400,","
+5400,Sciences
 5401,Feinberg School
 5402,Christ
 5403,Martin Luther
@@ -5410,14 +5410,14 @@ id,answer
 5409,"good works ,"
 5410,as the
 5411,Individual
-5412,","
-5413,Protestant Reformation
+5412,Today
+5413,Contrary
 5414,[ r ] gained supporters
 5415,0
-5416,0
+5416,In
 5417,``
 5418,is a
-5419,.
+5419,independent
 5420,of a
 5421,five
 5422,The English
@@ -5427,7 +5427,7 @@ id,answer
 5426,0
 5427,The
 5428,four
-5429,:
+5429,on the
 5430,"faculties , including"
 5431,on the
 5432,The
@@ -5449,7 +5449,7 @@ id,answer
 5448,1170s
 5449,1170s
 5450,to this
-5451,","
+5451,1130s
 5452,John Wycliffe
 5453,John Wycliffe
 5454,five
@@ -5458,11 +5458,11 @@ id,answer
 5457,1517
 5458,concentrated upon
 5459,supposedly nailed
-5460,of the
+5460,"' ,"
 5461,0
-5462,0
+5462,In
 5463,0
-5464,","
+5464,1559
 5465,0
 5466,of the
 5467,religious affairs
@@ -5472,7 +5472,7 @@ id,answer
 5471,Henry II
 5472,Huldrych Zwingli
 5473,A
-5474,.
+5474,creating
 5475,as the
 5476,which has
 5477,from the
@@ -5481,7 +5481,7 @@ id,answer
 5480,1540
 5481,Henry
 5482,of a
-5483,","
+5483,to the
 5484,was a
 5485,early
 5486,was a
@@ -5491,12 +5491,12 @@ id,answer
 5490,Mary of Guise
 5491,1560
 5492,1524–25
-5493,.
+5493,Thirty
 5494,0
-5495,","
+5495,Westphalia
 5496,"religious upheaval ,"
 5497,World War II
-5498,1730s
+5498,Europe
 5499,1790
 5500,The Second Great Awakening
 5501,1790
@@ -5515,7 +5515,7 @@ id,answer
 5514,as a
 5515,Baptist
 5516,0
-5517,0
+5517,They
 5518,The English
 5519,1518
 5520,for the
@@ -5538,25 +5538,25 @@ id,answer
 5537,Some Protestant
 5538,and what is
 5539,Several
-5540,(
-5541,0
+5540,independent since
+5541,This
 5542,0
 5543, Tuvalu
 5544,Due
-5545,.
+5545,largest branches
 5546,Today
 5547,historically significant
 5548,Most
 5549,examination
 5550,smaller
 5551,The General Conference
-5552,(
+5552,1980
 5553,theologies differ
 5554,small
 5555,0
 5556,required
 5557,0
-5558,","
+5558,included
 5559,Transdenominational
 5560,1246
 5561,0
@@ -5583,16 +5583,16 @@ id,answer
 5582,stresses
 5583,Calvin
 5584,largest branches
-5585,","
+5585,Today
 5586,churches represents
 5587,72 million
 5588,Additionally
 5589,John Wesley—an Anglican
-5590,0
-5591,","
+5590,Originally
+5591,George Whitefield
 5592,one
 5593,Some
-5594,Radical Reformation
+5594,In
 5595,Arminian
 5596,accomplished salvation
 5597,Charles
@@ -5608,19 +5608,19 @@ id,answer
 5607,0
 5608,many parts
 5609,A
-5610,0
+5610,Often
 5611,0
 5612,individuals
 5613,The Plymouth Brethren
 5614,The Plymouth Brethren
-5615,still maintain—the title
+5615,itself—a stance
 5616,1820s
 5617,generally see
 5618,understandings
 5619,priesthood
 5620,Unlike
 5621,In
-5622,","
+5622,Friends
 5623,Evangelicalism
 5624,It
 5625,incorporate beliefs
@@ -5630,10 +5630,10 @@ id,answer
 5629,and the
 5630,Puritan
 5631,prominent example .
-5632,","
+5632,In
 5633,0
 5634,New Zealand
-5635,Charismatic Movement
+5635,Neo-charismatic
 5636,matter
 5637, Larry Christenson
 5638,Charismatic Lutheran
@@ -5644,14 +5644,14 @@ id,answer
 5643,renewal movements
 5644,These
 5645,gifts ( charismata )
-5646,perceived
+5646,tendencies
 5647,Changes
 5648,early
 5649,was a
 5650,Nondenominational
 5651,1619
 5652,adopted
-5653,0
+5653,It
 5654,They
 5655,Because
 5656,Westminster Assembly
@@ -5673,14 +5673,14 @@ id,answer
 5672,Tausch
 5673,and the
 5674,Arno Tausch
-5675,(
+5675,"data ,"
 5676,Anglicanism
 5677,Because
 5678,affluent
-5679,considerably wealthier
+5679,better educated (
 5680,of their
-5681,Reformation
-5682,on the
+5681,During
+5682,between the
 5683,development
 5684,According
 5685,English Civil War
@@ -5696,8 +5696,8 @@ id,answer
 5695, Hugo Grotius
 5696,It
 5697,Calvin
-5698,(
-5699,Later
+5698,North America
+5699,took
 5700,miraculous moves
 5701,) practised democratic self-rule
 5702,Protestants
@@ -5707,8 +5707,8 @@ id,answer
 5706,0
 5707,Protestantism
 5708,'s stance
-5709,0
-5710,","
+5709,The United Nations Declaration
+5710,also deduced human rights
 5711,of all
 5712,1740
 5713,19th
@@ -5749,10 +5749,10 @@ id,answer
 5748,0
 5749,churches
 5750,is not
-5751,representatives
+5751,Lutheran World Federation
 5752,0
 5753,0
-5754,on the
+5754,Justification
 5755,on the
 5756,2010
 5757,worldwide
@@ -5760,16 +5760,16 @@ id,answer
 5759,Europe
 5760,minority .
 5761,still remains
-5762,Protestants
+5762,made
 5763,Netherlands
 5764,continent 's
 5765,there are only few
-5766,","
+5766,Since
 5767,16th
-5768,%
+5768,found
 5769,Germany
 5770,lived
-5771,.
+5771,religious music
 5772,became
 5773,0
 5774,century .
@@ -5783,7 +5783,7 @@ id,answer
 5782,401
 5783,0
 5784,that to his
-5785,0
+5785,The
 5786,The
 5787,By
 5788, Urartu
@@ -5797,18 +5797,18 @@ id,answer
 5796,428–636
 5797,0
 5798,884
-5799,","
+5799,Prince
 5800,0
 5801,0
 5802,1071
 5803,1920
 5804,at the
-5805,.
+5805,Prince
 5806,defeated
-5807,out the
+5807,noble family drove
 5808,shared control
 5809,The
-5810,0
+5810,The Seljuk Empire
 5811,The
 5812,0
 5813,0
@@ -5841,7 +5841,7 @@ id,answer
 5840,The
 5841,0
 5842,"600,000"
-5843,0
+5843,This
 5844,Nikita Khruschev
 5845,1917
 5846,0
@@ -5882,11 +5882,11 @@ id,answer
 5881,78
 5882,1993
 5883,This
-5884,0
+5884,The Nagorno-Karabakh War
 5885,were to be
 5886,move effectively crippled
 5887,0
-5888,(
+5888,) .
 5889,complete resolution
 5890,28
 5891,0
@@ -5910,7 +5910,7 @@ id,answer
 5909,military base
 5910,0
 5911,0
-5912,","
+5912,forces joined
 5913,of the
 5914,64
 5915,0
@@ -5918,11 +5918,11 @@ id,answer
 5917,Republic of Armenia
 5918,Gyumri
 5919,0
-5920,(
+5920,) along
 5921,This
 5922,0
 5923,46
-5924,0
+5924,Within
 5925,twelve
 5926,"[ update ] ,"
 5927,"diaspora ,"
@@ -5973,7 +5973,7 @@ id,answer
 5972,common kind
 5973, Richard Hagopian
 5974, Richard Hagopian
-5975,.
+5975,Soviet
 5976, Richard Hagopian
 5977,traditional `` kef '' style
 5978,1960s
@@ -5982,12 +5982,12 @@ id,answer
 5981, Richard Hagopian
 5982,In
 5983,"diaspora ,"
-5984,","
+5984,which is
 5985,Yerevan Vernissage
 5986,variety
 5987,Yerevan Vernissage
 5988,"16,000"
-5989,.
+5989,fine art
 5990,The National Art Gallery
 5991,Being
 5992,also
@@ -6010,7 +6010,7 @@ id,answer
 6009,is as
 6010,on the
 6011,cuisine
-6012,","
+6012,was not
 6013,Great Plains
 6014,1916
 6015,that the
@@ -6022,16 +6022,16 @@ id,answer
 6021,Hernando de Soto
 6022,"time period ,"
 6023,of the
-6024,","
+6024,place said
 6025,with the
 6026,The
 6027,region may
 6028,Great Plains
 6029,1870
-6030,bison
+6030,hides .
 6031,"farmers ,"
 6032,"farmers ,"
-6033,third
+6033,Plains
 6034,frontier `` closed ''
 6035,"alone , according"
 6036,``
@@ -6064,17 +6064,17 @@ id,answer
 6063,by the
 6064,of a
 6065,senior priest
-6066,0
+6066,Though
 6067,8th
-6068,","
+6068,769
 6069,Nicholas II
 6070,under the
 6071,1460s
 6072,0
 6073,as a
-6074,0
+6074,In
 6075,1567
-6076,in which
+6076,Short
 6077,747
 6078,not just that of
 6079,0
@@ -6082,10 +6082,10 @@ id,answer
 6081,Pius IV
 6082,1563
 6083,Pius IV
-6084,0
+6084,The
 6085,"early modern times , cardinals often"
 6086,that he was for
-6087,.
+6087,ruler
 6088,Henry
 6089,70
 6090,Church
@@ -6110,7 +6110,7 @@ id,answer
 6109,by the
 6110,However
 6111,1378
-6112,0
+6112,The
 6113,one
 6114,Pope
 6115,0
@@ -6131,7 +6131,7 @@ id,answer
 6130,is for
 6131,0
 6132,of the
-6133,0
+6133, [ citation needed ]
 6134,Surname
 6135,0
 6136,"previous times ,"
@@ -6172,22 +6172,22 @@ id,answer
 6171,who is of the
 6172,who is of the
 6173,14
-6174,","
+6174,decree
 6175,0
 6176,three
 6177,western section
-6178,of the
+6178,contains
 6179, North Carolina
 6180,of the
 6181,'s
 6182,central
-6183,)
+6183,east
 6184,at which
 6185,Temperatures
 6186,western section
 6187,of the
 6188,The Black Mountains
-6189,)
+6189,"2,037"
 6190,Mount Mitchell
 6191,of the
 6192,influenced
@@ -6209,7 +6209,7 @@ id,answer
 6208,The
 6209,On
 6210,Louisiana
-6211,Hurricane Floyd
+6211,Hurricane
 6212,in the
 6213,Hurricane
 6214,Louisiana
@@ -6223,25 +6223,25 @@ id,answer
 6222,"contact ,"
 6223,Roanoke
 6224,Algonquian-speaking
-6225,(
+6225,"notorious pirate ,"
 6226,appealing
-6227,promised safe-haven
-6228,promised safe-haven
+6227,governor
+6228,governor
 6229,to be the
-6230,.
+6230,Province
 6231,The
 6232,originally known
 6233,northwestern part
 6234,1718
 6235,state capital beginning
-6236,.
+6236,selected
 6237,William Tryon
 6238,provincial governor
 6239,Raleigh
 6240,smallest per-capita contribution
 6241,"7,800"
 6242,There
-6243,0
+6243,As
 6244,over the
 6245,1800
 6246,of the
@@ -6279,8 +6279,8 @@ id,answer
 6278,years preceding
 6279,years preceding
 6280,Joara
-6281,","
-6282,","
+6281,which he
+6282,culture people
 6283,culture people
 6284,Records
 6285,Walter Raleigh
@@ -6318,7 +6318,7 @@ id,answer
 6317,Nathanael Greene
 6318,January
 6319,''
-6320,","
+6320,Cornwallis
 6321,'s
 6322,finally met
 6323,Greensboro
@@ -6326,7 +6326,7 @@ id,answer
 6325,twelfth state
 6326,twelfth state
 6327,Raleigh
-6328,","
+6328,In
 6329,state .
 6330,in the
 6331,Revolution
@@ -6354,7 +6354,7 @@ id,answer
 6353,Army
 6354,0
 6355,for the
-6356,","
+6356,was at
 6357,slow
 6358,Henry Wyatt
 6359,The
@@ -6373,14 +6373,14 @@ id,answer
 6372,in the
 6373,opened
 6374,", placing"
-6375,.
+6375,No
 6376,'s total gross state product
 6377,November
 6378,2010
 6379,did not
 6380,came within
 6381,came within
-6382,","
+6382,In
 6383,Pat McCrory
 6384,As
 6385,Pat McCrory
@@ -6407,10 +6407,10 @@ id,answer
 6406, North Carolina
 6407,strong affiliation
 6408,In
-6409,","
+6409,also hosts
 6410,is the
 6411,18
-6412,)
+6412,The Atlantic Coast Conference
 6413,Charlotte
 6414,from the
 6415,Four
@@ -6422,7 +6422,7 @@ id,answer
 6421,The Carolina Hurricanes NHL
 6422, North Carolina
 6423,many tourists visit
-6424,.
+6424,headquarters located
 6425,western
 6426,Krispy Kreme
 6427,internationally acclaimed
@@ -6434,9 +6434,9 @@ id,answer
 6433,North Carolinians
 6434,34
 6435,National Forests
-6436,","
+6436,North Carolina
 6437,Great Smoky Mountains National Park
-6438,generating $
+6438,culture industry generates $
 6439,1.2 billion
 6440,1.2 billion
 6441,first major museum collection
@@ -6496,7 +6496,7 @@ id,answer
 6495,towns like
 6496,had their
 6497,territories
-6498,king
+6498,Portugal
 6499,king
 6500,Prince Royal Dom Luís Filipe
 6501,Portugal
@@ -6506,28 +6506,28 @@ id,answer
 6505,five
 6506,and not as a
 6507,It
-6508,unitary semi-presidential republican form
-6509,having the
-6510,in the
+6508,maintains
+6509,with an
+6510,highest
 6511,common drugs
 6512,was to
 6513,' plan
 6514,in the
 6515,"process ,"
-6516,starting
+6516,reconquest known
 6517,into a
 6518,Alfonso III
 6519,Asturias
 6520,Asturias
 6521,up the
 6522,led
-6523,(
+6523,when the
 6524,of the
 6525,This
 6526,The
 6527,Leopold Josef
 6528,Melo
-6529,","
+6529,Portugal
 6530,Leopold Josef
 6531,John V
 6532,new city centre
@@ -6550,10 +6550,10 @@ id,answer
 6549,1139
 6550,Some
 6551,pioneering
-6552,during the
+6552,status
 6553,By
 6554,After
-6555,.
+6555,over to
 6556,200 million
 6557,"hydroelectric dams ,"
 6558,The
@@ -6564,7 +6564,7 @@ id,answer
 6563,northern province
 6564,scattered around present-day
 6565,There
-6566,.
+6566,moving
 6567,"months ,"
 6568,0
 6569,Damascus
@@ -6575,10 +6575,10 @@ id,answer
 6574,fell
 6575,The Taifa
 6576,Tourist
-6577,(
-6578,0
+6577,Iberian
+6578,The Arabs
 6579,from the
-6580,","
+6580,population (
 6581,800
 6582,García
 6583,0
@@ -6596,7 +6596,7 @@ id,answer
 6595,Some
 6596,Some
 6597,"increased ,"
-6598,","
+6598,By
 6599,British
 6600,0
 6601,0
@@ -6614,10 +6614,10 @@ id,answer
 6613,1976
 6614,Some
 6615,1976
-6616,)
+6616,1976
 6617,Semi-arid
-6618,; mixed oceanic climate along
-6619,mountainous interior north
+6618,mainland
+6619,60.8–66.2
 6620,from the
 6621,have a
 6622,Both
@@ -6642,7 +6642,7 @@ id,answer
 6641,support
 6642,The Courts
 6643,Both
-6644,%
+6644,population declared
 6645,0
 6646,is the
 6647,Portugal
@@ -6651,8 +6651,8 @@ id,answer
 6650,define
 6651,government programme
 6652,to be the
-6653,National Republican Guard
-6654,National Republican Guard
+6653,Segurança Pública
+6654,Polícia Judiciária
 6655,PJ
 6656,While
 6657,50
@@ -6665,22 +6665,22 @@ id,answer
 6664,The
 6665,The
 6666,three
-6667,0
+6667,Most
 6668,The Army
 6669,An
 6670,An
 6671,( consisting
 6672,"10,700"
 6673,"century ,"
-6674,(
+6674,and the
 6675,East Timor
 6676,foreign citizens threatened
 6677,Pedro Passos Coelho
 6678,in the
 6679,in the
-6680,already seen
+6680,average wage cut
 6681,and the
-6682,Carnation Revolution
+6682,democratic
 6683,Portugal
 6684,Several
 6685,Banco Privado Português
@@ -6690,7 +6690,7 @@ id,answer
 6689,The Portuguese
 6690,The Portuguese
 6691,Banco
-6692,Setúbal
+6692,in the
 6693,is the
 6694,and the
 6695,and the
@@ -6699,7 +6699,7 @@ id,answer
 6698,is a
 6699,severe recession since
 6700,2011
-6701,0
+6701,Most
 6702,6.8
 6703,exiting
 6704,small
@@ -6743,12 +6743,12 @@ id,answer
 6742,seeks
 6743,that the
 6744,civil service-related lower-wages
-6745,","
-6746,%
+6745,obligatory classes
+6746,population declared
 6747,has been in a
 6748,7.3
 6749,7.3
-6750,around
+6750,wake
 6751,Tourist
 6752,", also ,"
 6753,of the
@@ -6770,10 +6770,10 @@ id,answer
 6769,kmh (
 6770,largest metropolitan areas
 6771,The
-6772,","
+6772,have been
 6773,Portuguese
 6774,mainly conducted within
-6775,Inovação
+6775,Tecnologia
 6776,of the
 6777,which in
 6778,and the
@@ -6790,7 +6790,7 @@ id,answer
 6789,In
 6790,66
 6791,Portugal’s
-6792,(
+6792,") , uses sophisticated modeling"
 6793,"solarwind revolution ,"
 6794,New
 6795,Instead
@@ -6809,14 +6809,14 @@ id,answer
 6808,"10,617,575"
 6809,population
 6810,Some
-6811,%
+6811,population declared
 6812,8.3
 6813,Christian
 6814,from its
 6815,) changed
 6816,1910–26
-6817,(
-6818,","
+6817,that before the
+6818,promising victories
 6819,for the
 6820,official language
 6821,is the
@@ -6834,19 +6834,19 @@ id,answer
 6833,existed since
 6834,The
 6835,The
-6836,(
+6836,founded
 6837,Desenho
 6838,2006
 6839,Most
 6840,35
-6841,developing health policy
+6841,The Ministry
 6842,Five
 6843,are in
 6844,noncommunicable diseases .
 6845,"main components , ischaemic heart disease"
-6846,(
+6846,17
 6847,% less often
-6848,0
+6848,Although
 6849,and the
 6850,third
 6851,"( decade ) ,"
@@ -6874,7 +6874,7 @@ id,answer
 6873,grilled sardines
 6874,Two
 6875,") ,"
-6876,.
+6876,popular sport
 6877,Typical
 6878,has its
 6879,These
@@ -6883,16 +6883,16 @@ id,answer
 6882,with their
 6883,Russa
 6884,enjoyed international recognition since
-6885,","
+6885,MTV Europe Music Awards
 6886,"summer season ,"
 6887,that is
 6888,that is
-6889,","
+6889,held
 6890,as the
 6891,Artur Pizarro
-6892,0
+6892,The
 6893,Nuno Malo
-6894,","
+6894,century saw
 6895,who was
 6896,Russa
 6897,Vieira da Silva
@@ -6904,8 +6904,8 @@ id,answer
 6903,`` big
 6904,and by
 6905,eight
-6906,.
-6907,","
+6906,popular sport
+6907,– annually hosts
 6908,universities
 6909,The English
 6910,Paris
@@ -6917,24 +6917,24 @@ id,answer
 6916,19th
 6917,Turkey
 6918,1996
-6919,(
+6919,now the
 6920,now the
 6921,with a
 6922,These
 6923,in the
 6924,education (
-6925,repositioning
+6925,rebranding
 6926,2009
 6927,designated
 6928,type
-6929,Swedish
+6929,"international use ,"
 6930,and in the
 6931,academization .
 6932,four
 6933,four
 6934,there are
 6935,Affiliate Schools
-6936,(
+6936,and the
 6937,Canadian
 6938,esteemed colleges
 6939,polytechnic institutions also partake
@@ -6959,7 +6959,7 @@ id,answer
 6958,"addition ,"
 6959,They
 6960,part
-6961,Belgium
+6961,) .
 6962,by the
 6963,Polytechnicum
 6964,first founded
@@ -6972,7 +6972,7 @@ id,answer
 6971,0
 6972,with about
 6973,four
-6974,.
+6974,joint-venture
 6975,King
 6976,The
 6977,", established"
@@ -6989,12 +6989,12 @@ id,answer
 6988,four
 6989,and the more
 6990,``
-6991,(
+6991,to as
 6992,to a
 6993,two
-6994,(
+6994,jointly established
 6995,of the
-6996,","
+6996,In
 6997,almost
 6998,with the
 6999,Ipoh
@@ -7004,9 +7004,9 @@ id,answer
 7003,is the
 7004,has a
 7005, New Zealand
-7006,.
+7006,", amalgamated"
 7007,1990s
-7008,.
+7008,amalgamated
 7009,'s state-owned tertiary education system .
 7010,explored
 7011,", amalgamated"
@@ -7016,13 +7016,13 @@ id,answer
 7015,three
 7016,graduate studies respectively .
 7017,equivalent
-7018,:
+7018,Polytechnic
 7019,Before
-7020,","
-7021,.
+7020,they have been
+7021,polytechnics
 7022,5
 7023,5
-7024,","
+7024,Slovakia
 7025,is the
 7026,technical university
 7027,is the
@@ -7035,7 +7035,7 @@ id,answer
 7034,Mongkut
 7035,'' :
 7036,'' :
-7037,.
+7037,Sirindhorn International Institute
 7038,that was
 7039,is the only
 7040,that was
@@ -7048,14 +7048,14 @@ id,answer
 7047,later known
 7048,two
 7049,Technology
-7050,","
+7050,technology received
 7051,grant
-7052,.
+7052,under the
 7053,associated
 7054,technology
 7055,Politechnika
 7056,1824
-7057,1824
+7057,and most
 7058,is a
 7059,1950s
 7060,Instituto
@@ -7066,7 +7066,7 @@ id,answer
 7065,The
 7066,The
 7067,"last surviving dinosaurs ,"
-7068,0
+7068,Feathers
 7069,Many
 7070,respiratory systems
 7071,"'s finches , played"
@@ -7083,7 +7083,7 @@ id,answer
 7082, Gauthier
 7083,and a
 7084,"theropod dinosaurs ,"
-7085,","
+7085,includes dromaeosaurs
 7086,in the
 7087,"deinonychosaurs ,"
 7088,of the
@@ -7102,19 +7102,19 @@ id,answer
 7101,"enantiornithes ,"
 7102,because the
 7103,"period , enantiornithes became extinct along"
-7104,0
+7104,While
 7105,"tail feathers ,"
 7106,The
 7107,"( meaning `` true birds '' ,"
 7108,`` hind wing ''
 7109,of the
 7110,defined
-7111,","
+7111,subdivisions :
 7112,known living bird species varies anywhere
 7113,was that of the
 7114,"( ducks , geese , swans"
-7115,Galloanserae
-7116,screamers )
+7115,The
+7116,Galliformes
 7117,1990
 7118,about the
 7119,The
@@ -7131,12 +7131,12 @@ id,answer
 7130,with the
 7131,few are
 7132,excrete
-7133,(
+7133,exception
 7134,multi-purpose opening : waste
 7135,These
 7136,"facilitate flight , provide insulation"
 7137,of the
-7138,%
+7138,The
 7139,Sound
 7140,"syrinx ,"
 7141,complex respiratory systems
@@ -7169,7 +7169,7 @@ id,answer
 7168,Moulting
 7169,prey may moult
 7170,birds preen
-7171,%
+7171,around
 7172,and to
 7173,This
 7174,them from
@@ -7292,13 +7292,13 @@ id,answer
 7291,750–1800
 7292,includes
 7293,headquartered
-7294,became
+7294,"defense activity , due"
 7295,Downtown
-7296,Detroit–Windsor
+7296,It
 7297,Juan Rodríguez Cabrillo
 7298,in what is now the
 7299,1850
-7300,entire area
+7300,", forming"
 7301,Sebastián Vizcaíno
 7302,Vizcaíno
 7303,Friar Antonio de la Ascensión
@@ -7319,7 +7319,7 @@ id,answer
 7318,and their
 7319,Gray
 7320,three
-7321,13
+7321,``
 7322,year
 7323,admission
 7324,to the
@@ -7343,20 +7343,20 @@ id,answer
 7342,St. Louis
 7343,", include"
 7344,"defense activity , due"
-7345,.
+7345,") , founded"
 7346,1930
 7347,had a
 7348,The
-7349,but was not
+7349,scheduled
 7350,0
 7351,tuna fishing fleet
 7352,"1,000"
-7353,.
+7353,in the
 7354,A
 7355,of the
 7356,middle
 7357,city .
-7358,","
+7358,In
 7359,serves
 7360,San Diego Bay
 7361,Point
@@ -7368,9 +7368,9 @@ id,answer
 7367,compared
 7368,To
 7369,"'s tallest skyscraper , including"
-7370,0
-7371,0
-7372,of the
+7370,Though
+7371,Though
+7372,one
 7373,of the
 7374,area
 7375,"coastal areas ,"
@@ -7382,7 +7382,7 @@ id,answer
 7381,has been
 7382,The
 7383,Rainfall
-7384,;
+7384,some of the
 7385,in a
 7386,'s current area
 7387,The
@@ -7392,7 +7392,7 @@ id,answer
 7391,by the
 7392,appear
 7393,"sanctuary city , however ,"
-7394,","
+7394,Pacific Flyway
 7395,2003
 7396,0
 7397,was the
@@ -7400,33 +7400,33 @@ id,answer
 7399,"2,200"
 7400,United States
 7401,than the
-7402,","
+7402,Census
 7403,5–10
 7404,extends beyond
 7405,estimated city population
-7406,"1,306,300"
+7406,estimated city population
 7407,estimated city population
-7408,","
+7408,Census
 7409,estimated city population
 7410,2000
 7411,Median
-7412,.
-7413,%
+7412,national average
+7413,63.1
 7414,were under
 7415,The
-7416,%
-7417,14.6
+7416,34
+7417,20.0
 7418,20
 7419,Millennials
 7420,were below the
 7421,United States
-7422,","
+7422,fifth-best place
 7423,Males
 7424,20.0
 7425,San Diego Beer Week
-7426,","
+7426,rated
 7427,major industry owing
-7428,Belmont
+7428,numerous tourist attractions
 7429,Also
 7430,California-Baja California
 7431,includes
@@ -7437,23 +7437,23 @@ id,answer
 7436,The
 7437,security software company
 7438,Though
-7439,","
+7439,San Diego
 7440,The
 7441,second-largest biotech cluster
 7442,140
 7443,home
-7444,","
+7444,Neurocrine Biosciences
 7445,branch located
 7446,The
 7447,"amusement park ,"
 7448,aircraft carrier .
 7449,which is
 7450,Jahja Ling
-7451,.
+7451,UCSD
 7452,", directed"
 7453,musicals .
-7454,","
-7455,)
+7454,headquartered
+7455,on the
 7456,three
 7457,are the
 7458,The San Diego Yacht Club
@@ -7493,17 +7493,17 @@ id,answer
 7492,Entravision Communications
 7493, San Diego
 7494,97.392.1
-7495,KFMB AM
+7495,97.392.1
 7496,"include nationwide broadcaster ,"
 7497,The
 7498,949
 7499,north
-7500,","
+7500,runs south
 7501,and the
-7502,","
+7502,includes
 7503,for over
 7504,northeast part
-7505,","
+7505,state highways include
 7506,94
 7507,2006
 7508,Older
@@ -7521,20 +7521,20 @@ id,answer
 7520,by an
 7521,0
 7522,) connecting
-7523,(
+7523,is the
 7524,through the
 7525,37
 7526,government department responsible
 7527,does not
-7528,0
+7528,The MoD
 7529,government department responsible
 7530,The MoD
 7531,of the
 7532,are to
 7533,does not
 7534,does not
-7535,","
-7536,;
+7535,professional heads
+7536,rejected
 7537,1923
 7538,Stanley Baldwin
 7539,held
@@ -7544,17 +7544,17 @@ id,answer
 7543,seat
 7544,Clement Attlee
 7545,1964 five
-7546,:
+7546,1964 five
 7547,1964
 7548,1964
 7549,0
 7550,( generally known
-7551,)
-7552,)
+7551,is the
+7552,as the
 7553,Assistant Chief
 7554,Nicholas Houghton
-7555,","
-7556,","
+7555,Vice Chief
+7556,Vice Chief
 7557,three
 7558,"particular remits ,"
 7559,0
@@ -7565,29 +7565,29 @@ id,answer
 7564,0
 7565,2010
 7566,and the
-7567,headquarters
+7567,British Armed Forces
 7568,as a
 7569,0
 7570,David Cameron
 7571,The
-7572,%
+7572,of the
 7573,£178 billion
 7574,included
 7575,four
 7576,are in
-7577,","
+7577,Following
 7578, Dannatt
 7579,2018
 7580,`` land environment '' —at
 7581,39
 7582,Kevin O’Donoghue
-7583,","
+7583,that the
 7584, Dannatt
 7585,0
 7586,``
 7587,1.8
 7588,1.8
-7589,%
+7589,land mass .
 7590,£3.3 billion
 7591,0
 7592,The
@@ -7613,7 +7613,7 @@ id,answer
 7612,modern
 7613,risk
 7614,many
-7615,0
+7615,The Ministry
 7616,1968
 7617,eight
 7618,2010
@@ -7625,13 +7625,13 @@ id,answer
 7624,0
 7625,£90m
 7626,which only
-7627,0
+7627,The TA
 7628,£20m
 7629,£20m
 7630,0
 7631,The TA
 7632,on its
-7633,0
+7633,The Ministry
 7634,are in
 7635,could take
 7636,that have
@@ -7670,7 +7670,7 @@ id,answer
 7669,can be
 7670,can be
 7671,Poverty
-7672,","
+7672,stem
 7673,by the
 7674,Proper
 7675,have a
@@ -7688,8 +7688,8 @@ id,answer
 7687,Similarly
 7688,Immunization
 7689,around
-7690,%
-7691,","
+7690,20
+7691,which was
 7692,About
 7693,developing countries
 7694,in the
@@ -7714,7 +7714,7 @@ id,answer
 7713,The
 7714,Another
 7715,region
-7716,0
+7716,It
 7717,as of
 7718,world 's
 7719,A
@@ -7730,7 +7730,7 @@ id,answer
 7729,in the
 7730,0
 7731,of the
-7732,","
+7732,brought
 7733,"dynasty , made"
 7734,987
 7735,' strategic importance—with
@@ -7743,7 +7743,7 @@ id,answer
 7742,Joan
 7743,site
 7744,1594
-7745,0
+7745,It
 7746,1682
 7747, Pierre Mignard
 7748,that the
@@ -7755,7 +7755,7 @@ id,answer
 7754,1860
 7755,0
 7756,art (
-7757,","
+7757,held
 7758,1889
 7759,") ,"
 7760,"6,000"
@@ -7764,32 +7764,32 @@ id,answer
 7763,army marched
 7764,"12,884"
 7765,at the
-7766,0
-7767,","
+7766,None
+7767,1944
 7768,11
 7769,``
 7770,40
 7771,0
 7772,0
 7773,Most
-7774,0
+7774,During
 7775,2014
 7776,1983-1989
 7777,The
 7778,Bertrand Delanoë
 7779,use
 7780,2013
-7781,Paris
+7781,French Muslim
 7782,thirteen
 7783,1.5 million
 7784,Ten
 7785,Seven
 7786,northern central
 7787,814
-7788,","
+7788,as are
 7789,It
 7790,It
-7791,","
+7791,covers
 7792,of the
 7793,1860
 7794,1860
@@ -7815,10 +7815,10 @@ id,answer
 7814,and has a
 7815,of its
 7816,seven
-7817,0
+7817,The
 7818,Patrick Ollier
 7819,and the
-7820,","
+7820,"metropolitan council ,"
 7821,has a
 7822,The
 7823,seventeen
@@ -7832,8 +7832,8 @@ id,answer
 7831,is on
 7832,and the
 7833,International Energy Agency
-7834,0
-7835,of the
+7834,It
+7835,mainly
 7836,"30,200"
 7837,1944
 7838,"6,000"
@@ -7841,7 +7841,7 @@ id,answer
 7840,remain today :
 7841,1827
 7842,590
-7843,'s tallest building
+7843,France
 7844,", called"
 7845,2009
 7846,13th
@@ -7854,14 +7854,14 @@ id,answer
 7853,It
 7854,Forty-one
 7855,sixty
-7856,0
+7856,The
 7857,"heliport ,"
-7858,0
-7859,Paris
+7858,To
+7859,de la région parisienne '' (
 7860,The
 7861,1
 7862,1961
-7863,region )
+7863,de la région parisienne '' (
 7864,1961
 7865,These
 7866,These
@@ -7870,11 +7870,11 @@ id,answer
 7869,fifth largest municipality
 7870,", places"
 7871,0
-7872,","
+7872,had a
 7873,The
 7874,2.9 million
 7875,for the
-7876,.
+7876,"2,234,000"
 7877,Commune
 7878,"21,616"
 7879,in itself
@@ -7887,7 +7887,7 @@ id,answer
 7886,16
 7887,"insurance ,"
 7888,thirty
-7889,0
+7889,The
 7890,"144,600"
 7891,Nineteen
 7892,16
@@ -7896,8 +7896,8 @@ id,answer
 7895,29
 7896,metropolitan
 7897,The
-7898,Europe
-7899,region 's
+7898,Buddha
+7899,The
 7900,The
 7901,concentrated
 7902,' department store district
@@ -7945,9 +7945,9 @@ id,answer
 7944,Eugène Atget
 7945,0
 7946,world 's
-7947,(
+7947,La Joconde
 7948,of the most
-7949,and the
+7949,d'Art
 7950,Asian
 7951,"dinosaur artefacts , mineral collections ,"
 7952,2006
@@ -7966,7 +7966,7 @@ id,answer
 7965,The Moulin Rouge
 7966,1946
 7967,and the
-7968,","
+7968,The
 7969,Gasparinus de Bergamo ( Gasparino
 7970,1470
 7971,Paris
@@ -7976,7 +7976,7 @@ id,answer
 7975,"writers ,"
 7976,while he did
 7977,Patrick Modiano–who
-7978,Colette
+7978,Paris
 7979,depiction
 7980,", based"
 7981,French-language
@@ -8011,10 +8011,10 @@ id,answer
 8010,1900
 8011,29
 8012,29
-8013,0
+8013,The Cafe Procope
 8014,The Cafe Procope
 8015,eating place loosely defined
-8016,0
+8016,Troubadors
 8017,"haute couture , clothing hand-made"
 8018,"world , including"
 8019,Paris Fashion Week
@@ -8025,7 +8025,7 @@ id,answer
 8024, Paris
 8025,0
 8026,to the
-8027,0
+8027,The Bibliothèque
 8028,"arrondissement ,"
 8029,glass towers .
 8030,arrondissement
@@ -8033,7 +8033,7 @@ id,answer
 8032,largest university library
 8033,A
 8034,106
-8035,0
+8035,A
 8036,"75,000"
 8037,74
 8038,21
@@ -8043,13 +8043,13 @@ id,answer
 8042,83
 8043,1960s
 8044,of the
-8045,","
-8046,","
+8045,from the
+8046,shelters
 8047,18th
-8048,","
+8048,shelters
 8049,0
 8050,declared
-8051,'
+8051,popular sport clubs
 8052,home
 8053,0
 8054,347
@@ -8058,12 +8058,12 @@ id,answer
 8057,Garges-Sarcelles
 8058,Garges-Sarcelles
 8059,Five
-8060,0
-8061,0
+8060,It
+8061,The
 8062,busiest airport system
 8063,96.5 million
 8064,Agence France-Presse
-8065,.
+8065,such as
 8066, Paris
 8067,Parisian
 8068, Orly Airport
@@ -8078,7 +8078,7 @@ id,answer
 8077,Jardin des Plantes
 8078,Parc Montsouris
 8079,166
-8080,(
+8080,notably
 8081,"d'Orsay ,"
 8082,2013
 8083,It
@@ -8091,15 +8091,15 @@ id,answer
 8090,"90,000"
 8091,5.8 million
 8092,5.8 million
-8093,0
+8093,It
 8094,"prestigious newspapers ,"
 8095,"'s oldest ,"
 8096,one
 8097,"government ,"
-8098,","
-8099,","
+8098,TF1
+8099,France
 8100,Radio France Internationale
-8101,","
+8101,'s national postal carrier .
 8102,such as
 8103,Conversely
 8104,from the
@@ -8131,7 +8131,7 @@ id,answer
 8130,is not
 8131,cover parts
 8132,and its
-8133,1930
+8133,such as
 8134,J. C. Flügel
 8135,0
 8136,While
@@ -8149,7 +8149,7 @@ id,answer
 8148,Knowledge
 8149,0
 8150,could
-8151,.
+8151,date back
 8152,Scientists
 8153,Body
 8154,Body
@@ -8180,7 +8180,7 @@ id,answer
 8179,"benefits ,"
 8180,of such
 8181,Mass-produced
-8182,)
+8182,Multi Fibre Agreement
 8183,The MFA
 8184,often quoted
 8185,attempt
@@ -8188,7 +8188,7 @@ id,answer
 8187,The
 8188,for its
 8189,use
-8190,0
+8190,PETA
 8191,PETA
 8192,Much
 8193,"look clean , fresh ,"
@@ -8208,7 +8208,7 @@ id,answer
 8207,Albert
 8208,nine
 8209,"seclusion , republicanism temporarily gained strength ,"
-8210,Wales
+8210,"republican movement ,"
 8211,1859
 8212,eight
 8213,His
@@ -8218,7 +8218,7 @@ id,answer
 8217,"first cousin ,"
 8218,", though interested"
 8219,eight
-8220,Wales
+8220,"republican movement ,"
 8221,As
 8222,1840
 8223,She
@@ -8266,7 +8266,7 @@ id,answer
 8265,1853
 8266,gave birth
 8267,"new anaesthetic , chloroform ."
-8268,","
+8268,4.15
 8269,was so
 8270,Leopold
 8271,4.15
@@ -8296,7 +8296,7 @@ id,answer
 8295,1871
 8296,0
 8297,She
-8298,0
+8298,She
 8299,that his
 8300,Victoria
 8301,1840
@@ -8306,11 +8306,11 @@ id,answer
 8305,Roderick Maclean
 8306,"'s first grandchild ,"
 8307,Victoria
-8308,as her
+8308,at the
 8309,Two
 8310,Roderick Maclean
 8311,Two
-8312,","
+8312,1882
 8313,at the
 8314,"'s mother died ,"
 8315,Napoleon III
@@ -8340,7 +8340,7 @@ id,answer
 8339,coffin .
 8340,in a
 8341,She
-8342,0
+8342,I
 8343,by her
 8344,Her
 8345,she was
@@ -8359,7 +8359,7 @@ id,answer
 8358,Leopold
 8359,0
 8360,0
-8361,","
+8361,to her
 8362, Napoleon III
 8363,0
 8364, Napoleon III
@@ -8368,12 +8368,12 @@ id,answer
 8367,you can
 8368,Brown
 8369,", though interested"
-8370,dear
+8370,...
 8371,1859
 8372,by the
-8373,","
+8373,Tory
 8374,0
-8375,","
+8375,Tory
 8376,0
 8377,that her
 8378,Victoria
@@ -8390,26 +8390,26 @@ id,answer
 8389,0
 8390,The Queen
 8391,0
-8392,improvement
+8392,took
 8393,royal family
 8394,0
-8395,","
+8395,In
 8396,revolutions
-8397,improvement
-8398,","
+8397,took
+8398,In
 8399,improvement
 8400,she and
 8401,Louis Philippe
 8402,Louis Philippe
 8403,deposed
-8404,","
+8404,family left
 8405,"time ,"
-8406,improvement
+8406,took
 8407,Demonstrations
 8408,1848
-8409,","
+8409,United Kingdom
 8410,1845
-8411,Gotha
+8411, Victoria
 8412,'s assassination attempt
 8413,Napoleon III
 8414,Victoria
@@ -8456,7 +8456,7 @@ id,answer
 8455,celebrated
 8456,Henry )
 8457,``
-8458,(
+8458,Sir
 8459,Henry )
 8460,1887
 8461,remained
@@ -8479,7 +8479,7 @@ id,answer
 8478,In July
 8479,1859
 8480,during a
-8481,","
+8481,"'s mother died ,"
 8482,Europe
 8483,spent
 8484,physically unprepossessing—she
@@ -8491,11 +8491,11 @@ id,answer
 8490,unmarried young woman
 8491,1964
 8492,physically unprepossessing—she
-8493,0
-8494,0
+8493,Only
+8494,He
 8495,1921
 8496,He
-8497,Duchess
+8497,took
 8498,centre
 8499,to other
 8500,that they
@@ -8525,33 +8525,33 @@ id,answer
 8524,28
 8525,"£385,000"
 8526,sustain injury
-8527,","
+8527,hit
 8528,0
 8529,Derby
 8530,million
-8531,","
-8532,","
+8531,labelled ``
+8532,In
 8533,million
-8534,","
-8535,","
+8534,In
+8535,labelled ``
 8536,"£2,000"
-8537,","
+8537,In
 8538,1845
 8539,1845
 8540,In
 8541,0
 8542,0
 8543,1859
-8544,for the
+8544,private estate
 8545,that she and
 8546,commanding premises
 8547,that she and
-8548,","
+8548,protester stuck
 8549,"public appearances ,"
 8550,from the
 8551,"time ,"
 8552,'s self-imposed isolation
-8553,0
+8553,In
 8554,Only
 8555,Only
 8556,ruled much
@@ -8560,15 +8560,15 @@ id,answer
 8559,0
 8560,ruled much
 8561,Albert
-8562,","
+8562,Indian Rebellion
 8563,She
-8564,British East India Company
+8564,ruled much
 8565,ruled much
 8566,ruled much
 8567,ruled much
 8568,power
 8569,down some
-8570,fell
+8570,down some
 8571, Brown
 8572,"'s death ,"
 8573,Henry Ponsonby
@@ -8590,17 +8590,17 @@ id,answer
 8589,"'s youngest son ,"
 8590,by the
 8591,Strathearn
-8592,","
+8592,by the
 8593,haemophiliacs descended
 8594,"'s youngest son ,"
 8595,It
 8596,Spontaneous
-8597,0
+8597,Financially
 8598,fearful
 8599,She
-8600,.
+8600,fourth son
 8601,Once
-8602,","
+8602,"'s mother ,"
 8603,0
 8604,"'s mother died ,"
 8605,father 's
@@ -8613,9 +8613,9 @@ id,answer
 8612,'s grandfather
 8613,1830
 8614,'s grandfather
-8615,","
+8615,and the
 8616,fifth
-8617,0
+8617,She
 8618,1830
 8619,made special provision
 8620, Salisbury
@@ -8627,7 +8627,7 @@ id,answer
 8626,written
 8627,1830
 8628,"next surviving uncle ,"
-8629,1830
+8629,became heiress presumptive
 8630,Official
 8631,24
 8632,1830
@@ -8639,7 +8639,7 @@ id,answer
 8638,Official
 8639,"next surviving uncle ,"
 8640,In
-8641,","
+8641,labelled ``
 8642,required
 8643,over the
 8644,over the
@@ -8654,12 +8654,12 @@ id,answer
 8653,After
 8654,social convention
 8655,high treason
-8656,","
-8657,","
-8658,at the
+8656,1842
+8657,1842
+8658,'s death sentence
 8659,provoke
 8660,Conroy
-8661,at the
+8661,'s death sentence
 8662,John William Bean
 8663,William Hamilton
 8664,years ' transportation .
@@ -8676,10 +8676,10 @@ id,answer
 8675,recalled
 8676,In
 8677,"following year ,"
-8678,0
+8678,Derby
 8679,"'s ministry , though"
 8680,0
-8681,","
+8681,brief ministry led
 8682,had been
 8683,Louis-Napoleon Bonaparte
 8684,Louis-Napoleon Bonaparte
@@ -8698,12 +8698,12 @@ id,answer
 8697,'s eldest daughter married
 8698,Wilhelm
 8699,Her
-8700,0
+8700,Financially
 8701,Charlotte
 8702,George III
 8703,"'s niece ,"
 8704,Kent
-8705,0
+8705,Financially
 8706,Charlotte
 8707,Duke of Kent
 8708,Victoria of Saxe-Coburg-Saalfeld
@@ -8717,12 +8717,12 @@ id,answer
 8716,Her
 8717,who had been
 8718,Leopold
-8719,0
-8720,","
+8719,Financially
+8720,on the other
 8721,Gladstone
 8722,George IV
 8723,of the
-8724,instead favoured
+8724,of the
 8725,1859
 8726,0
 8727,0
@@ -8739,7 +8739,7 @@ id,answer
 8738,Lady Flora Hastings
 8739, Victoria
 8740,"'' ,"
-8741,","
+8741,despised ``
 8742,At
 8743,of the
 8744,A
@@ -8757,12 +8757,12 @@ id,answer
 8756,"contracted typhoid fever ,"
 8757,0
 8758,'s philandering .
-8759,'s first pregnancy
+8759,1840
 8760,Edward Oxford
 8761,attempted
 8762,Edward Oxford
 8763,1842
-8764,0
+8764,The Queen
 8765,gave birth
 8766,21
 8767,"daughter , also named"
@@ -8838,10 +8838,10 @@ id,answer
 8837,1
 8838,at the
 8839,1874
-8840,Anglican
+8840,and which
 8841,Over
 8842,title ``
-8843,1874
+8843,Catholic
 8844,He
 8845,voting system increased
 8846,but to
@@ -8871,7 +8871,7 @@ id,answer
 8870,Henry Labouchere
 8871,Salisbury
 8872,"2,500"
-8873,","
+8873,publish
 8874,1832
 8875,Beatrice
 8876,transcribed
@@ -8894,8 +8894,8 @@ id,answer
 8893,This
 8894,0
 8895,0
-8896,0
-8897,0
+8896,This
+8897,This
 8898,0
 8899,is a
 8900,"system , based"
@@ -8909,12 +8909,12 @@ id,answer
 8908,lawmaking responsibilities
 8909,Clinton
 8910,Congress
-8911,","
+8911,Congress
 8912,23
 8913,0
 8914,23
 8915,0
-8916,0
+8916,Thus
 8917,0
 8918,aforementioned
 8919,0
@@ -8923,11 +8923,11 @@ id,answer
 8922,them to
 8923,0
 8924,Overall
-8925,","
+8925,Federal Trade Commission—all
 8926,Army
-8927,0
+8927,Where Congress
 8928,houses may
-8929,0
+8929,Bodies
 8930,Congress
 8931,who was the
 8932,1983
@@ -8937,10 +8937,10 @@ id,answer
 8936,0
 8937,Courts
 8938,Courts
-8939,0
-8940,0
+8939,The
+8940,The
 8941,Congress
-8942,judicial power
+8942,courts may
 8943,0
 8944,0
 8945,0
@@ -8953,7 +8953,7 @@ id,answer
 8952,precedent
 8953,Supreme Court
 8954,Marbury
-8955,0
+8955,Where Congress
 8956,0
 8957,0
 8958,51
@@ -8964,7 +8964,7 @@ id,answer
 8963,Andrew Jackson
 8964,0
 8965,for the
-8966,0
+8966,The
 8967,controversial
 8968,In
 8969, Franklin Delano Roosevelt
